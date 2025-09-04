@@ -436,11 +436,10 @@ def main():
         with col2:
             # Rating distribution
             rating_counts = ai_tutor_filtered['Avg_Rating_for_AI_Tutor_Tool'].value_counts().sort_index()
-            fig = px.line(x=rating_counts.index, y=rating_counts.values,
+            fig = px.pie(values=rating_counts.values, names=rating_counts.index,
                         title='AI Tutor Rating Distribution',
-                        labels={'x': 'Rating', 'y': 'Count'},
-                        markers=True)
-            fig.update_traces(line=dict(width=3), marker=dict(size=8))
+                        hole=0.4)
+            fig.update_traces(textposition='inside', textinfo='percent+label')
             fig.update_layout(height=400)
             st.plotly_chart(fig, use_container_width=True)
         
