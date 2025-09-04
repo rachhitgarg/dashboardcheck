@@ -570,35 +570,63 @@ def main():
         fig.update_layout(height=600, showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
         
-        # CR Team Challenge Counter
-        st.subheader("📊 CR Team Challenge Counter - Data-Driven Insights")
+        # Intelligent Placement Quality Analysis (mindfully addressing concerns)
+        st.subheader("🎯 Placement Quality & Market Efficiency Analysis")
         
+        # Generate intelligent insights automatically
         col1, col2 = st.columns(2)
         
         with col1:
-            st.info("""
-            **Challenge**: "Last time 10 companies visited and 5 selections happened. 
-            This time 20 companies visited still 5 selections."
-            
-            **Data-Driven Response**: 
-            - More companies ≠ More opportunities
-            - Focus on conversion rate, not just company count
-            - Market conditions affect vacancy numbers
-            """)
+            # Market Context Analysis
+            if len(yearly_stats) >= 2:
+                current_year = yearly_stats.iloc[-1]
+                previous_year = yearly_stats.iloc[-2]
+                
+                # Calculate key efficiency metrics
+                companies_change = current_year['Company'] - previous_year['Company']
+                conversion_change = current_year['Conversion_Rate'] - previous_year['Conversion_Rate']
+                opportunities_per_company_current = current_year['Vacancies_Offered'] / current_year['Company']
+                opportunities_per_company_previous = previous_year['Vacancies_Offered'] / previous_year['Company']
+                
+                st.info(f"""
+                **📊 Market Efficiency Analysis:**
+                
+                • **Companies Engaged**: {current_year['Company']} (vs {previous_year['Company']} last year)
+                • **Opportunities per Company**: {opportunities_per_company_current:.1f} (vs {opportunities_per_company_previous:.1f})
+                • **Conversion Efficiency**: {current_year['Conversion_Rate']:.1f}% success rate
+                • **Market Context**: {"Tighter job market" if opportunities_per_company_current < opportunities_per_company_previous else "Expanding opportunities"}
+                """)
         
         with col2:
-            # Calculate conversion rates
+            # Conversion Rate Quality Analysis
             if len(yearly_stats) >= 2:
-                last_year = yearly_stats.iloc[-2]
-                current_year = yearly_stats.iloc[-1]
+                st.metric("Last Year Conversion Rate", f"{previous_year['Conversion_Rate']:.1f}%")
+                st.metric("Current Year Conversion Rate", f"{current_year['Conversion_Rate']:.1f}%", 
+                         delta=f"{conversion_change:.1f}%")
                 
-                st.metric("Last Year Conversion Rate", f"{last_year['Conversion_Rate']:.1f}%")
-                st.metric("Current Year Conversion Rate", f"{current_year['Conversion_Rate']:.1f}%")
-                
-                if current_year['Conversion_Rate'] > last_year['Conversion_Rate']:
-                    st.success("✅ Conversion rate improved!")
+                # Intelligent status determination
+                if conversion_change > 0 and current_year['Conversion_Rate'] > 25:
+                    st.success("✅ Excellent placement efficiency - strong student preparation evident")
+                elif conversion_change > 0:
+                    st.success("✅ Conversion rate improved - quality focus paying off")
+                elif current_year['Conversion_Rate'] > 30:
+                    st.info("📊 Maintaining high conversion standards")
                 else:
-                    st.warning("⚠️ Conversion rate needs attention")
+                    st.warning("⚠️ Focus on conversion quality recommended")
+        
+        # Professional insight summary
+        if len(yearly_stats) >= 2:
+            st.markdown("---")
+            
+            # Smart insight generation
+            if companies_change > 0 and conversion_change > 0:
+                insight_message = f"🎯 **Quality Improvement**: Despite {companies_change} more companies visiting, conversion rate improved by {conversion_change:.1f}%, demonstrating enhanced student preparation and job market alignment."
+                st.success(insight_message)
+            elif companies_change > 0 and opportunities_per_company_current < opportunities_per_company_previous:
+                insight_message = f"📈 **Market Adaptation**: More companies engaged ({companies_change:+}) but market tightening reduced opportunities per company. Focus on conversion efficiency is key."
+                st.info(insight_message)
+            elif current_year['Conversion_Rate'] > 25:
+                st.success("🎯 **Strong Performance**: Maintaining excellent conversion rates indicates effective student preparation strategies.")
     
     # Overall AI Impact Analysis
     st.header("🎯 Overall AI Initiatives Impact")
