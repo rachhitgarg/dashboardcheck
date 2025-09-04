@@ -434,13 +434,47 @@ def main():
                 st.plotly_chart(fig, use_container_width=True)
         
         with col2:
-            # Rating distribution
-            rating_counts = ai_tutor_filtered['Avg_Rating_for_AI_Tutor_Tool'].value_counts().sort_index()
-            fig = px.pie(values=rating_counts.values, names=rating_counts.index,
-                        title='AI Tutor Rating Distribution',
-                        hole=0.4)
-            fig.update_traces(textposition='inside', textinfo='percent+label')
-            fig.update_layout(height=400)
+            # Rating distribution with grouped categories
+            ratings = ai_tutor_filtered['Avg_Rating_for_AI_Tutor_Tool']
+            
+            # Create meaningful rating groups
+            def group_ratings(rating):
+                if rating >= 4.5:
+                    return "⭐ Excellent (4.5-5.0)"
+                elif rating >= 4.0:
+                    return "✅ Good (4.0-4.4)"
+                elif rating >= 3.5:
+                    return "📊 Average (3.5-3.9)"
+                elif rating >= 3.0:
+                    return "⚠️ Fair (3.0-3.4)"
+                else:
+                    return "❌ Poor (<3.0)"
+            
+            # Group the ratings
+            grouped_ratings = ratings.apply(group_ratings)
+            rating_group_counts = grouped_ratings.value_counts()
+            
+            # Create horizontal bar chart for better readability
+            fig = px.bar(
+                x=rating_group_counts.values, 
+                y=rating_group_counts.index,
+                orientation='h',
+                title='AI Tutor Rating Distribution (Grouped)',
+                labels={'x': 'Number of Responses', 'y': 'Rating Category'},
+                color=rating_group_counts.values,
+                color_continuous_scale='RdYlGn'
+            )
+            
+            # Customize appearance
+            fig.update_layout(
+                height=400,
+                yaxis={'categoryorder': 'total ascending'},
+                showlegend=False
+            )
+            
+            # Add value labels on bars
+            fig.update_traces(texttemplate='%{x}', textposition='outside')
+            
             st.plotly_chart(fig, use_container_width=True)
         
         # Faculty feedback analysis
