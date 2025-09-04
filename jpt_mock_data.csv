@@ -1,0 +1,136 @@
+Year,Program,Cohort,Company,Industry_Sector,Company_Tier,Job_role,Location,Students_Eligible,Applied_Y_N,Students_Interviewed,Vacancies_Offered,Students_Selected,Avg_CTC,Highest_CTC
+2022,MGB,Jan-22,Apple,Healthcare,Tier 1,Business Analyst,Pune,41,26,17,4,3,853277,2985613
+2022,MGB,Jan-22,IBM,Retail,Tier 3,Business Analyst,Pune,34,17,5,3,1,2355723,3435757
+2022,MGB,Jan-22,Amazon,Finance,Tier 1,Operations Manager,Mumbai,30,14,13,6,1,931689,2684082
+2022,MGB,Jan-22,Adobe,Consulting,Tier 1,Product Manager,Delhi,27,20,16,13,1,2309520,1785415
+2022,MGB,Jan-22,Oracle,Finance,Tier 3,Data Analyst,Chennai,38,30,8,3,2,1726137,3234717
+2022,MGB,Jan-22,Salesforce,Healthcare,Tier 3,Business Analyst,Bangalore,34,30,9,11,5,2252118,2254130
+2022,MGB,Jan-22,Netflix,Manufacturing,Tier 2,Operations Manager,Gurgaon,24,14,7,15,4,2216428,2547781
+2022,MGB,May-22,Salesforce,Finance,Tier 1,Marketing Manager,Chennai,40,22,11,9,4,1970609,3003543
+2022,MGB,May-22,Microsoft,Consulting,Tier 2,Operations Manager,Chennai,23,21,6,7,2,2195680,2415660
+2022,MGB,May-22,Amazon,Manufacturing,Tier 3,Marketing Manager,Delhi,28,11,15,8,6,2349412,3471156
+2022,MGB,May-22,Netflix,Finance,Tier 2,Business Analyst,Mumbai,44,20,18,4,4,2351171,3330351
+2022,MGB,May-22,Google,Retail,Tier 1,Product Manager,Bangalore,32,25,9,6,6,1254466,2537488
+2022,MGB,May-22,Oracle,Retail,Tier 1,Business Analyst,Delhi,31,12,17,13,3,1534764,1236166
+2022,MGB,May-22,Apple,Manufacturing,Tier 3,Operations Manager,Hyderabad,23,27,10,14,6,1152327,2457769
+2022,MGB,May-22,Adobe,Retail,Tier 2,Business Analyst,Pune,25,27,18,9,4,826659,1580170
+2022,MGB,May-22,IBM,Consulting,Tier 1,Product Manager,Chennai,50,15,10,15,4,2002502,1934016
+2022,MGB,May-22,Meta,Finance,Tier 3,Consultant,Mumbai,20,10,18,11,7,1081812,2919284
+2022,MGB,Sep-22,Google,Manufacturing,Tier 1,Data Analyst,Pune,25,12,20,5,3,1285698,1514032
+2022,MGB,Sep-22,Meta,Consulting,Tier 1,Marketing Manager,Chennai,43,12,12,2,1,1172530,1764002
+2022,MGB,Sep-22,Netflix,Retail,Tier 1,Consultant,Gurgaon,29,24,7,4,1,812140,1396196
+2022,MGB,Sep-22,IBM,Healthcare,Tier 3,Data Analyst,Bangalore,50,10,9,8,8,1638806,2378543
+2022,MGB,Sep-22,Adobe,Healthcare,Tier 1,Consultant,Bangalore,23,23,6,8,8,1257994,3405036
+2022,MGB,Sep-22,Salesforce,Retail,Tier 2,Business Analyst,Hyderabad,50,21,5,13,1,1163780,2038379
+2022,MGB,Sep-22,Amazon,Manufacturing,Tier 1,Business Analyst,Pune,33,12,19,6,4,1033463,2062290
+2022,MGB,Sep-22,Microsoft,Technology,Tier 3,Marketing Manager,Bangalore,48,16,18,15,2,1393733,1590714
+2022,GMBA,Jan-22,Meta,Finance,Tier 2,Consultant,Pune,29,13,11,15,8,1614453,3395126
+2022,GMBA,Jan-22,Amazon,Education,Tier 3,Business Analyst,Gurgaon,35,23,6,7,4,1326401,2426068
+2022,GMBA,Jan-22,Apple,Education,Tier 1,Consultant,Bangalore,39,11,13,4,4,1513411,1619794
+2022,GMBA,Jan-22,Netflix,Education,Tier 2,Marketing Manager,Chennai,37,24,5,10,2,1984118,1991824
+2022,GMBA,Jan-22,Google,Consulting,Tier 3,Business Analyst,Hyderabad,29,15,6,4,2,1445193,2318237
+2022,GMBA,Jan-22,Oracle,Finance,Tier 2,Product Manager,Hyderabad,28,12,20,14,3,2437676,2606103
+2022,GMBA,Jan-22,Salesforce,Healthcare,Tier 3,Data Analyst,Delhi,26,26,17,14,5,1552742,2430700
+2022,GMBA,Jan-22,Microsoft,Education,Tier 1,Consultant,Chennai,37,21,12,14,7,1990804,1373906
+2022,GMBA,May-22,Oracle,Retail,Tier 2,Operations Manager,Bangalore,20,10,15,12,4,1810216,2323724
+2022,GMBA,May-22,Amazon,Consulting,Tier 3,Marketing Manager,Mumbai,22,22,13,4,2,2473701,1336320
+2022,GMBA,May-22,Apple,Consulting,Tier 3,Consultant,Mumbai,44,17,20,11,2,1439054,3249876
+2022,GMBA,May-22,Meta,Consulting,Tier 1,Consultant,Chennai,40,30,18,15,2,1895867,2298589
+2022,GMBA,May-22,Adobe,Manufacturing,Tier 2,Data Analyst,Chennai,26,24,6,6,4,2377984,3093192
+2022,GMBA,May-22,Salesforce,Healthcare,Tier 2,Business Analyst,Pune,40,21,18,15,5,1613064,2180796
+2022,GMBA,May-22,Google,Manufacturing,Tier 1,Marketing Manager,Bangalore,37,12,16,8,5,1885337,1340752
+2022,GMBA,Sep-22,Amazon,Consulting,Tier 1,Operations Manager,Hyderabad,46,13,5,11,5,2162754,2815053
+2022,GMBA,Sep-22,Oracle,Education,Tier 2,Data Analyst,Bangalore,29,17,16,2,2,876556,2155855
+2022,GMBA,Sep-22,Salesforce,Retail,Tier 3,Business Analyst,Delhi,27,24,13,13,7,856727,2862446
+2022,GMBA,Sep-22,Netflix,Education,Tier 2,Consultant,Pune,40,24,11,9,1,2459808,1704334
+2022,GMBA,Sep-22,Microsoft,Healthcare,Tier 2,Consultant,Chennai,49,14,10,10,3,2147153,2379477
+2023,MGB,Jan-23,Adobe,Manufacturing,Tier 3,Data Analyst,Hyderabad,33,20,11,10,6,1787188,2060864
+2023,MGB,Jan-23,Google,Manufacturing,Tier 3,Operations Manager,Chennai,33,16,14,11,3,1856366,3219883
+2023,MGB,Jan-23,Oracle,Education,Tier 3,Operations Manager,Bangalore,20,20,15,8,1,1997477,1779025
+2023,MGB,Jan-23,Meta,Consulting,Tier 3,Marketing Manager,Hyderabad,46,13,19,4,1,2404309,1526105
+2023,MGB,Jan-23,Netflix,Healthcare,Tier 2,Business Analyst,Delhi,47,22,19,10,1,928329,1492461
+2023,MGB,May-23,Amazon,Technology,Tier 3,Business Analyst,Hyderabad,39,12,10,15,8,2273098,2554165
+2023,MGB,May-23,Google,Healthcare,Tier 3,Data Analyst,Chennai,26,17,19,14,2,1686861,2491681
+2023,MGB,May-23,Oracle,Finance,Tier 1,Business Analyst,Pune,28,15,17,11,5,2258477,3446310
+2023,MGB,May-23,Microsoft,Consulting,Tier 2,Operations Manager,Pune,50,17,7,12,4,2061445,1280856
+2023,MGB,May-23,Meta,Technology,Tier 2,Marketing Manager,Delhi,29,21,18,3,2,933188,2625973
+2023,MGB,May-23,Netflix,Consulting,Tier 2,Marketing Manager,Chennai,37,24,11,15,1,1140590,2338981
+2023,MGB,May-23,IBM,Education,Tier 1,Operations Manager,Delhi,37,26,13,5,2,2441671,1516018
+2023,MGB,May-23,Adobe,Healthcare,Tier 3,Data Analyst,Hyderabad,43,27,8,9,7,2129631,2780854
+2023,MGB,Sep-23,Meta,Technology,Tier 1,Consultant,Gurgaon,38,14,7,14,6,897268,1679986
+2023,MGB,Sep-23,Apple,Manufacturing,Tier 2,Data Analyst,Hyderabad,21,29,9,9,7,900504,2053906
+2023,MGB,Sep-23,Microsoft,Healthcare,Tier 1,Consultant,Delhi,36,30,6,2,1,1908747,1894595
+2023,MGB,Sep-23,Amazon,Education,Tier 2,Marketing Manager,Bangalore,50,23,10,11,5,2377615,1326629
+2023,MGB,Sep-23,Netflix,Retail,Tier 3,Operations Manager,Chennai,47,10,19,12,3,1510680,1971125
+2023,MGB,Sep-23,Adobe,Technology,Tier 2,Marketing Manager,Mumbai,40,24,13,12,2,1687058,1671159
+2023,MGB,Sep-23,Google,Education,Tier 2,Consultant,Hyderabad,39,22,8,13,3,1077729,1265246
+2023,MGB,Sep-23,Salesforce,Finance,Tier 3,Data Analyst,Hyderabad,21,26,9,10,1,919157,1934968
+2023,MGB,Sep-23,Oracle,Finance,Tier 2,Marketing Manager,Hyderabad,26,18,13,8,5,2121654,1971250
+2023,MGB,Sep-23,IBM,Technology,Tier 1,Data Analyst,Pune,28,20,20,12,1,2365269,2438305
+2023,GMBA,Jan-23,Amazon,Finance,Tier 1,Business Analyst,Chennai,50,17,19,4,3,1358387,3093095
+2023,GMBA,Jan-23,Meta,Manufacturing,Tier 2,Data Analyst,Delhi,46,11,12,8,7,2381702,2431632
+2023,GMBA,Jan-23,Adobe,Technology,Tier 2,Product Manager,Delhi,32,20,9,5,3,2264653,2982219
+2023,GMBA,Jan-23,Netflix,Education,Tier 2,Operations Manager,Mumbai,36,12,19,6,3,1309758,2878173
+2023,GMBA,Jan-23,Oracle,Consulting,Tier 3,Marketing Manager,Hyderabad,42,18,9,15,2,1845247,2243415
+2023,GMBA,Jan-23,Microsoft,Finance,Tier 1,Business Analyst,Delhi,31,18,17,10,7,1697345,1361230
+2023,GMBA,Jan-23,Apple,Retail,Tier 1,Business Analyst,Bangalore,32,24,18,8,5,2019445,2501962
+2023,GMBA,Jan-23,IBM,Manufacturing,Tier 1,Product Manager,Delhi,46,25,10,11,3,2068425,3399639
+2023,GMBA,Jan-23,Google,Technology,Tier 2,Consultant,Hyderabad,25,15,18,8,3,952403,3102976
+2023,GMBA,Jan-23,Salesforce,Consulting,Tier 2,Marketing Manager,Chennai,38,23,10,11,4,2060006,1847264
+2023,GMBA,May-23,Adobe,Education,Tier 2,Data Analyst,Bangalore,35,24,10,13,6,1054632,2236240
+2023,GMBA,May-23,Salesforce,Education,Tier 2,Marketing Manager,Gurgaon,36,15,6,6,5,1318037,1601166
+2023,GMBA,May-23,Apple,Retail,Tier 1,Business Analyst,Delhi,26,29,11,7,7,1644000,1241286
+2023,GMBA,May-23,Microsoft,Technology,Tier 3,Operations Manager,Pune,20,12,14,2,2,1778133,2873091
+2023,GMBA,May-23,Amazon,Manufacturing,Tier 3,Operations Manager,Delhi,46,29,7,4,3,870790,2392206
+2023,GMBA,May-23,Meta,Consulting,Tier 1,Data Analyst,Delhi,49,28,7,13,4,1883359,3279142
+2023,GMBA,May-23,Oracle,Technology,Tier 3,Marketing Manager,Chennai,24,30,20,7,2,1711797,2572481
+2023,GMBA,May-23,IBM,Manufacturing,Tier 3,Operations Manager,Delhi,41,22,14,15,3,1422542,1247632
+2023,GMBA,May-23,Netflix,Retail,Tier 1,Business Analyst,Bangalore,39,30,9,7,1,1286806,1329940
+2023,GMBA,Sep-23,Oracle,Healthcare,Tier 3,Business Analyst,Mumbai,49,28,6,4,3,978625,3187504
+2023,GMBA,Sep-23,IBM,Retail,Tier 2,Consultant,Mumbai,31,17,5,12,8,1903505,3006123
+2023,GMBA,Sep-23,Salesforce,Education,Tier 1,Product Manager,Delhi,30,25,9,11,5,2468080,2489134
+2023,GMBA,Sep-23,Meta,Finance,Tier 1,Operations Manager,Delhi,28,13,10,9,6,1811166,2524345
+2023,GMBA,Sep-23,Google,Healthcare,Tier 2,Consultant,Delhi,32,13,5,15,1,2147134,1911178
+2023,GMBA,Sep-23,Adobe,Healthcare,Tier 1,Marketing Manager,Gurgaon,35,21,6,3,1,2190916,1952200
+2023,GMBA,Sep-23,Amazon,Retail,Tier 2,Business Analyst,Delhi,24,20,7,2,1,1763896,1369092
+2023,GMBA,Sep-23,Apple,Consulting,Tier 2,Product Manager,Chennai,29,15,14,5,3,2077026,1200358
+2023,GMBA,Sep-23,Microsoft,Healthcare,Tier 3,Marketing Manager,Hyderabad,28,25,18,14,1,1069842,2145784
+2024,MGB,Jan-24,Microsoft,Technology,Tier 2,Operations Manager,Delhi,35,30,6,14,6,2178688,1898178
+2024,MGB,Jan-24,Google,Consulting,Tier 2,Consultant,Delhi,37,28,16,15,2,1336437,1355354
+2024,MGB,Jan-24,Oracle,Consulting,Tier 2,Marketing Manager,Pune,46,12,16,11,1,965787,1600288
+2024,MGB,Jan-24,Apple,Manufacturing,Tier 3,Consultant,Pune,48,24,13,7,3,1567023,2243863
+2024,MGB,Jan-24,Amazon,Manufacturing,Tier 2,Consultant,Mumbai,41,13,17,11,1,906070,2395613
+2024,MGB,Jan-24,Salesforce,Consulting,Tier 2,Data Analyst,Chennai,38,17,5,2,2,1379425,1277070
+2024,MGB,Jan-24,Meta,Technology,Tier 3,Data Analyst,Pune,27,29,9,14,3,1238317,2804820
+2024,MGB,May-24,Amazon,Retail,Tier 1,Business Analyst,Hyderabad,40,10,19,6,5,1474645,1860384
+2024,MGB,May-24,Google,Consulting,Tier 3,Consultant,Pune,42,20,7,11,7,2058947,2066738
+2024,MGB,May-24,Apple,Finance,Tier 1,Data Analyst,Delhi,26,17,15,15,7,2068570,3164707
+2024,MGB,May-24,Meta,Healthcare,Tier 1,Marketing Manager,Pune,28,10,6,6,4,2069026,3225714
+2024,MGB,May-24,Adobe,Retail,Tier 3,Marketing Manager,Mumbai,39,15,6,2,1,1934247,2383412
+2024,MGB,May-24,IBM,Manufacturing,Tier 1,Consultant,Hyderabad,27,12,7,15,4,1010260,1603695
+2024,MGB,May-24,Oracle,Technology,Tier 2,Business Analyst,Gurgaon,37,18,15,7,5,1637478,2210696
+2024,MGB,May-24,Netflix,Technology,Tier 2,Consultant,Gurgaon,41,13,8,4,4,2233915,1866610
+2024,MGB,Sep-24,Google,Consulting,Tier 2,Operations Manager,Pune,35,18,16,9,5,2456664,1437838
+2024,MGB,Sep-24,Netflix,Healthcare,Tier 1,Product Manager,Hyderabad,37,14,11,15,2,2364261,1507982
+2024,MGB,Sep-24,Apple,Retail,Tier 2,Consultant,Gurgaon,39,28,15,15,4,1819043,2825233
+2024,MGB,Sep-24,Meta,Consulting,Tier 3,Marketing Manager,Hyderabad,24,23,10,8,4,805821,2723799
+2024,MGB,Sep-24,Oracle,Manufacturing,Tier 3,Product Manager,Mumbai,20,14,17,5,1,1072084,2768545
+2024,MGB,Sep-24,Adobe,Finance,Tier 2,Marketing Manager,Hyderabad,46,27,19,9,1,901541,2586821
+2024,GMBA,Jan-24,IBM,Finance,Tier 3,Marketing Manager,Pune,33,10,16,5,1,983983,2999082
+2024,GMBA,Jan-24,Apple,Education,Tier 1,Marketing Manager,Mumbai,46,10,8,6,1,2042279,1696041
+2024,GMBA,Jan-24,Google,Consulting,Tier 1,Data Analyst,Chennai,21,17,5,4,2,1350066,2621728
+2024,GMBA,Jan-24,Salesforce,Retail,Tier 2,Operations Manager,Chennai,42,16,19,4,3,1568958,2169996
+2024,GMBA,Jan-24,Adobe,Technology,Tier 1,Marketing Manager,Pune,23,28,10,15,7,1918717,3005157
+2024,GMBA,May-24,Amazon,Manufacturing,Tier 3,Business Analyst,Mumbai,41,20,13,6,3,1469039,2398857
+2024,GMBA,May-24,Oracle,Consulting,Tier 1,Marketing Manager,Mumbai,37,29,14,13,5,1060792,1268325
+2024,GMBA,May-24,Netflix,Manufacturing,Tier 2,Marketing Manager,Delhi,37,13,17,12,6,1394319,2386946
+2024,GMBA,May-24,IBM,Education,Tier 1,Marketing Manager,Gurgaon,30,22,17,14,3,2238287,2756064
+2024,GMBA,May-24,Apple,Consulting,Tier 3,Consultant,Hyderabad,23,25,20,4,1,825316,2184544
+2024,GMBA,Sep-24,Microsoft,Healthcare,Tier 1,Business Analyst,Delhi,29,24,9,2,2,1540964,1463770
+2024,GMBA,Sep-24,IBM,Consulting,Tier 1,Operations Manager,Mumbai,36,21,5,7,1,942295,3050606
+2024,GMBA,Sep-24,Amazon,Healthcare,Tier 1,Product Manager,Hyderabad,41,30,7,5,4,913180,2654840
+2024,GMBA,Sep-24,Oracle,Finance,Tier 1,Product Manager,Bangalore,34,28,6,10,6,957398,2077401
+2024,GMBA,Sep-24,Meta,Retail,Tier 2,Data Analyst,Pune,38,20,14,5,4,1587220,2308195
+2024,GMBA,Sep-24,Apple,Manufacturing,Tier 2,Operations Manager,Hyderabad,43,21,11,13,2,2023739,1428229
+2024,GMBA,Sep-24,Google,Manufacturing,Tier 1,Operations Manager,Chennai,43,24,8,7,5,2136357,3429344
+2024,GMBA,Sep-24,Adobe,Healthcare,Tier 2,Consultant,Mumbai,33,19,17,8,4,1961253,2185877

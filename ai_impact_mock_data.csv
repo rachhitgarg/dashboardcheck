@@ -1,0 +1,1801 @@
+Student_Name,Student_mail_id,Program,Cohort,Term,Placed_Not_Placed,CGPA,AI_Tutor_Usage,AI_Mentor_Usage,AI_TKT_Exam_Usage,JPT_Usage,Yoodli_Usage
+Student_1_Jan-22,student1@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,2.77,Medium,Medium,Medium,Medium,High
+Student_2_Jan-22,student2@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.36,None,Low,Low,Medium,Medium
+Student_3_Jan-22,student3@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.97,Medium,Low,None,Medium,Low
+Student_4_Jan-22,student4@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.11,None,Medium,None,Low,Medium
+Student_5_Jan-22,student5@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.47,Low,None,Low,Medium,None
+Student_6_Jan-22,student6@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.6,High,Medium,High,Low,High
+Student_7_Jan-22,student7@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.17,High,Low,High,Medium,Medium
+Student_8_Jan-22,student8@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,2.53,None,High,None,Medium,None
+Student_9_Jan-22,student9@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.86,Low,None,Medium,None,Low
+Student_10_Jan-22,student10@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,2.52,Low,Low,Low,None,High
+Student_11_Jan-22,student11@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.61,None,None,Low,Medium,None
+Student_12_Jan-22,student12@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.75,High,Medium,Medium,Low,None
+Student_13_Jan-22,student13@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.9,None,High,High,None,Low
+Student_14_Jan-22,student14@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.33,Medium,Medium,Medium,None,Low
+Student_15_Jan-22,student15@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.73,Low,Low,None,None,Medium
+Student_16_Jan-22,student16@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,2.73,Low,None,High,Low,None
+Student_17_Jan-22,student17@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.86,Medium,High,High,Low,None
+Student_18_Jan-22,student18@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.37,None,Low,None,High,Low
+Student_19_Jan-22,student19@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.74,High,Medium,Low,None,Medium
+Student_20_Jan-22,student20@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,2.58,Low,None,Low,High,Low
+Student_21_Jan-22,student21@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.27,Medium,High,Medium,Low,Low
+Student_22_Jan-22,student22@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.53,Low,High,Low,Medium,High
+Student_23_Jan-22,student23@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.06,None,None,Low,Medium,High
+Student_24_Jan-22,student24@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.26,Medium,High,None,None,High
+Student_25_Jan-22,student25@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.89,None,Low,Low,Low,Medium
+Student_26_Jan-22,student26@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,2.76,Low,High,High,Medium,Medium
+Student_27_Jan-22,student27@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,2.96,Medium,Medium,High,None,High
+Student_28_Jan-22,student28@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.66,None,High,Medium,High,High
+Student_29_Jan-22,student29@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.68,Low,High,High,Low,High
+Student_30_Jan-22,student30@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.88,Medium,Medium,Medium,Low,High
+Student_31_Jan-22,student31@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.77,Low,Low,Low,Medium,Medium
+Student_32_Jan-22,student32@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.73,High,Medium,Medium,Low,Medium
+Student_33_Jan-22,student33@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.89,None,Low,Medium,None,High
+Student_34_Jan-22,student34@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.97,None,Medium,Medium,None,High
+Student_35_Jan-22,student35@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.2,Medium,None,Low,Low,High
+Student_36_Jan-22,student36@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.24,None,Low,None,Low,None
+Student_37_Jan-22,student37@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,2.94,None,Medium,High,None,Low
+Student_38_Jan-22,student38@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,4.0,None,High,None,None,High
+Student_39_Jan-22,student39@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.09,High,Medium,High,Low,Medium
+Student_40_Jan-22,student40@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.39,None,High,Medium,None,None
+Student_41_Jan-22,student41@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.63,None,Low,None,None,None
+Student_42_Jan-22,student42@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.65,High,High,Low,None,None
+Student_43_Jan-22,student43@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,2.54,High,High,None,High,Medium
+Student_44_Jan-22,student44@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,2.73,High,High,None,None,Medium
+Student_45_Jan-22,student45@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.24,Low,Low,High,High,None
+Student_46_Jan-22,student46@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.18,None,None,None,High,High
+Student_47_Jan-22,student47@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.83,Medium,None,None,Medium,Low
+Student_48_Jan-22,student48@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,3.65,None,None,None,Medium,High
+Student_49_Jan-22,student49@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,3.24,None,Low,Low,Low,High
+Student_50_Jan-22,student50@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,2.69,Low,Low,High,Low,None
+Student_51_Jan-22,student51@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.02,Low,None,Low,High,Medium
+Student_52_Jan-22,student52@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.47,High,High,Low,High,Low
+Student_53_Jan-22,student53@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.31,High,None,None,None,Low
+Student_54_Jan-22,student54@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.38,Low,None,None,Low,High
+Student_55_Jan-22,student55@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.54,Medium,Low,None,Low,Medium
+Student_56_Jan-22,student56@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.95,Medium,None,High,Medium,Low
+Student_57_Jan-22,student57@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,2.95,None,Medium,High,High,Low
+Student_58_Jan-22,student58@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.35,None,None,Medium,Low,High
+Student_59_Jan-22,student59@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.15,Low,Medium,None,None,Low
+Student_60_Jan-22,student60@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.82,Medium,None,Medium,None,Low
+Student_61_Jan-22,student61@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.28,Low,None,Medium,Medium,Medium
+Student_62_Jan-22,student62@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.12,High,Medium,None,Low,Low
+Student_63_Jan-22,student63@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.53,Medium,None,Medium,High,Medium
+Student_64_Jan-22,student64@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,2.87,Low,None,None,None,None
+Student_65_Jan-22,student65@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,2.74,Medium,High,Low,Low,Medium
+Student_66_Jan-22,student66@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.67,High,High,Low,Low,High
+Student_67_Jan-22,student67@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,3.51,High,None,Medium,Medium,High
+Student_68_Jan-22,student68@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,3.24,High,Medium,High,Low,Low
+Student_69_Jan-22,student69@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.9,Medium,Medium,High,Medium,Medium
+Student_70_Jan-22,student70@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.11,High,None,Low,High,Low
+Student_71_Jan-22,student71@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,3.52,Low,Medium,Low,None,Low
+Student_72_Jan-22,student72@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.47,High,High,Medium,Low,None
+Student_73_Jan-22,student73@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.85,High,Medium,None,None,High
+Student_74_Jan-22,student74@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,2.95,Medium,Low,Medium,Medium,None
+Student_75_Jan-22,student75@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.68,Low,High,None,None,None
+Student_76_Jan-22,student76@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.82,High,Medium,Low,High,Low
+Student_77_Jan-22,student77@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,3.18,High,High,Medium,None,Medium
+Student_78_Jan-22,student78@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.8,Low,Low,High,High,Medium
+Student_79_Jan-22,student79@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.77,None,Low,None,None,Medium
+Student_80_Jan-22,student80@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.53,Low,Low,Medium,High,None
+Student_81_Jan-22,student81@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.09,None,Medium,High,High,Medium
+Student_82_Jan-22,student82@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.8,Medium,High,None,None,Low
+Student_83_Jan-22,student83@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.94,Medium,High,High,None,None
+Student_84_Jan-22,student84@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,2.84,Medium,Medium,Low,Low,None
+Student_85_Jan-22,student85@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.15,Medium,Medium,Low,Medium,None
+Student_86_Jan-22,student86@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.69,High,Low,Low,Medium,None
+Student_87_Jan-22,student87@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.37,None,High,High,None,Medium
+Student_88_Jan-22,student88@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.53,None,None,Low,High,High
+Student_89_Jan-22,student89@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.0,Medium,None,Low,High,High
+Student_90_Jan-22,student90@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,2.95,None,Low,Medium,High,Medium
+Student_91_Jan-22,student91@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.26,Low,None,Medium,High,Low
+Student_92_Jan-22,student92@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,2.89,Low,High,Medium,None,Low
+Student_93_Jan-22,student93@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,2.92,Low,Low,Low,None,Medium
+Student_94_Jan-22,student94@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.65,Medium,None,High,Medium,Medium
+Student_95_Jan-22,student95@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,2.77,None,Low,Medium,None,None
+Student_96_Jan-22,student96@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.56,Low,None,None,None,High
+Student_97_Jan-22,student97@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.02,Medium,Low,Medium,Medium,Low
+Student_98_Jan-22,student98@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,3.29,Medium,None,High,Medium,None
+Student_99_Jan-22,student99@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.54,High,None,Low,High,Low
+Student_100_Jan-22,student100@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,2.62,None,None,Low,High,Low
+Student_101_Jan-22,student101@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.99,Medium,Medium,High,Low,Low
+Student_102_Jan-22,student102@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.32,None,High,None,Low,Medium
+Student_103_Jan-22,student103@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,2.63,Medium,Medium,None,None,Low
+Student_104_Jan-22,student104@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,2.95,None,Low,Medium,Low,High
+Student_105_Jan-22,student105@jan-22.spjain.edu,MGB,Jan-22,Term 3,Placed,3.23,None,None,Low,None,High
+Student_106_Jan-22,student106@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,3.42,None,None,High,High,Low
+Student_107_Jan-22,student107@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.47,Medium,None,High,Low,None
+Student_108_Jan-22,student108@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.86,None,Low,Medium,Medium,Low
+Student_109_Jan-22,student109@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,2.94,High,High,High,High,None
+Student_110_Jan-22,student110@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,3.2,Low,Low,Low,High,High
+Student_111_Jan-22,student111@jan-22.spjain.edu,MGB,Jan-22,Term 1,Not Placed,2.77,Medium,None,High,High,None
+Student_112_Jan-22,student112@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.38,None,None,Low,Low,Medium
+Student_113_Jan-22,student113@jan-22.spjain.edu,MGB,Jan-22,Term 2,Placed,2.62,Low,High,None,High,High
+Student_114_Jan-22,student114@jan-22.spjain.edu,MGB,Jan-22,Term 4,Placed,2.52,None,None,None,None,Low
+Student_115_Jan-22,student115@jan-22.spjain.edu,MGB,Jan-22,Term 3,Not Placed,3.71,High,Medium,Medium,High,Medium
+Student_116_Jan-22,student116@jan-22.spjain.edu,MGB,Jan-22,Term 1,Placed,3.54,Medium,High,Medium,None,Medium
+Student_117_Jan-22,student117@jan-22.spjain.edu,MGB,Jan-22,Term 2,Not Placed,3.76,Medium,High,Low,None,Medium
+Student_118_Jan-22,student118@jan-22.spjain.edu,MGB,Jan-22,Term 4,Not Placed,2.53,Medium,Medium,None,None,None
+Student_1_May-22,student1@may-22.spjain.edu,MGB,May-22,Term 4,Placed,2.8,None,High,Low,High,High
+Student_2_May-22,student2@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.77,Low,High,None,None,None
+Student_3_May-22,student3@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.57,High,None,Low,High,Low
+Student_4_May-22,student4@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,2.68,Low,None,None,High,Medium
+Student_5_May-22,student5@may-22.spjain.edu,MGB,May-22,Term 3,Placed,3.2,None,Medium,Medium,Low,None
+Student_6_May-22,student6@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.58,None,None,Low,None,Medium
+Student_7_May-22,student7@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.54,High,None,Medium,Medium,Medium
+Student_8_May-22,student8@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,2.65,None,None,Low,Medium,Medium
+Student_9_May-22,student9@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.04,Low,Low,Medium,Medium,High
+Student_10_May-22,student10@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,3.15,Medium,High,Medium,None,Low
+Student_11_May-22,student11@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.65,Low,Medium,High,High,None
+Student_12_May-22,student12@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.96,High,High,High,Medium,High
+Student_13_May-22,student13@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,2.74,Low,None,None,High,Medium
+Student_14_May-22,student14@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.73,High,Medium,None,None,High
+Student_15_May-22,student15@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.01,Medium,High,Low,Low,None
+Student_16_May-22,student16@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.73,None,Medium,Medium,None,None
+Student_17_May-22,student17@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.93,Low,High,None,Medium,High
+Student_18_May-22,student18@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.01,None,Medium,None,High,None
+Student_19_May-22,student19@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.85,High,Low,None,None,Low
+Student_20_May-22,student20@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,2.51,Low,Medium,None,None,Medium
+Student_21_May-22,student21@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.83,None,Medium,Low,High,High
+Student_22_May-22,student22@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.59,Medium,Low,Medium,High,Low
+Student_23_May-22,student23@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.54,Low,Medium,Low,None,High
+Student_24_May-22,student24@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,2.89,Low,High,High,High,None
+Student_25_May-22,student25@may-22.spjain.edu,MGB,May-22,Term 3,Placed,3.18,Medium,Medium,Low,Low,Low
+Student_26_May-22,student26@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.28,Medium,High,Low,Medium,Low
+Student_27_May-22,student27@may-22.spjain.edu,MGB,May-22,Term 4,Placed,2.72,None,None,High,High,High
+Student_28_May-22,student28@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.21,None,High,Low,None,None
+Student_29_May-22,student29@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.45,None,None,None,Medium,Medium
+Student_30_May-22,student30@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.57,Medium,High,Medium,None,None
+Student_31_May-22,student31@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.92,Low,High,None,High,High
+Student_32_May-22,student32@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,2.56,Medium,High,Low,Low,Low
+Student_33_May-22,student33@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.23,Medium,Medium,None,High,Low
+Student_34_May-22,student34@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.77,None,High,High,Low,High
+Student_35_May-22,student35@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,3.22,Low,None,Low,None,None
+Student_36_May-22,student36@may-22.spjain.edu,MGB,May-22,Term 2,Placed,3.26,None,None,None,Medium,Low
+Student_37_May-22,student37@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,3.08,None,Low,High,None,Low
+Student_38_May-22,student38@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.56,Low,High,High,Medium,High
+Student_39_May-22,student39@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.25,High,High,Medium,High,Low
+Student_40_May-22,student40@may-22.spjain.edu,MGB,May-22,Term 2,Placed,3.74,None,High,Low,None,High
+Student_41_May-22,student41@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.01,Medium,None,High,Low,None
+Student_42_May-22,student42@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.67,High,Medium,Low,Medium,Medium
+Student_43_May-22,student43@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.73,None,Medium,High,Low,Medium
+Student_44_May-22,student44@may-22.spjain.edu,MGB,May-22,Term 1,Placed,2.95,High,Low,Medium,None,Low
+Student_45_May-22,student45@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.91,High,High,Medium,Medium,Medium
+Student_46_May-22,student46@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.92,Low,High,Low,None,None
+Student_47_May-22,student47@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,2.54,Medium,High,Low,High,Medium
+Student_48_May-22,student48@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.35,None,High,Medium,Medium,Low
+Student_49_May-22,student49@may-22.spjain.edu,MGB,May-22,Term 2,Placed,3.31,None,None,High,High,None
+Student_50_May-22,student50@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.5,None,Low,Low,None,Low
+Student_51_May-22,student51@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,2.57,High,Low,High,None,High
+Student_52_May-22,student52@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.82,Medium,Low,Low,Low,None
+Student_53_May-22,student53@may-22.spjain.edu,MGB,May-22,Term 3,Placed,3.49,Low,Low,Medium,None,Low
+Student_54_May-22,student54@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.47,High,None,High,High,Medium
+Student_55_May-22,student55@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.64,High,High,High,None,High
+Student_56_May-22,student56@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,3.74,Low,None,Medium,High,High
+Student_57_May-22,student57@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.9,None,High,Medium,High,Low
+Student_58_May-22,student58@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.63,Low,Medium,Medium,None,Low
+Student_59_May-22,student59@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,3.24,Medium,High,Medium,None,High
+Student_60_May-22,student60@may-22.spjain.edu,MGB,May-22,Term 3,Not Placed,2.76,Medium,Medium,High,Medium,High
+Student_61_May-22,student61@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.9,Medium,Low,Medium,High,Low
+Student_62_May-22,student62@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.91,High,Low,None,None,Low
+Student_63_May-22,student63@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,3.24,High,Medium,High,Low,None
+Student_64_May-22,student64@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,2.51,Medium,Low,High,High,Medium
+Student_65_May-22,student65@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.88,Medium,Medium,Low,Low,High
+Student_66_May-22,student66@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.22,High,Low,Low,Medium,High
+Student_67_May-22,student67@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.94,High,Low,Medium,High,None
+Student_68_May-22,student68@may-22.spjain.edu,MGB,May-22,Term 1,Not Placed,3.37,High,High,High,None,Low
+Student_69_May-22,student69@may-22.spjain.edu,MGB,May-22,Term 1,Placed,2.59,None,High,Low,None,High
+Student_70_May-22,student70@may-22.spjain.edu,MGB,May-22,Term 1,Placed,3.34,Low,None,None,High,None
+Student_71_May-22,student71@may-22.spjain.edu,MGB,May-22,Term 2,Placed,3.18,None,None,High,Low,High
+Student_72_May-22,student72@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.38,High,High,High,High,Medium
+Student_73_May-22,student73@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.03,None,None,Medium,Medium,Medium
+Student_74_May-22,student74@may-22.spjain.edu,MGB,May-22,Term 1,Placed,2.69,None,Low,Low,Medium,Medium
+Student_75_May-22,student75@may-22.spjain.edu,MGB,May-22,Term 4,Not Placed,3.4,Low,Low,High,Medium,High
+Student_76_May-22,student76@may-22.spjain.edu,MGB,May-22,Term 2,Placed,3.13,Medium,Medium,Medium,High,Low
+Student_77_May-22,student77@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.54,None,Low,Low,Low,None
+Student_78_May-22,student78@may-22.spjain.edu,MGB,May-22,Term 3,Placed,2.66,High,None,Medium,High,Medium
+Student_79_May-22,student79@may-22.spjain.edu,MGB,May-22,Term 2,Not Placed,3.44,Medium,None,Low,None,Medium
+Student_80_May-22,student80@may-22.spjain.edu,MGB,May-22,Term 4,Placed,3.74,High,Low,High,High,Low
+Student_1_Sep-22,student1@sep-22.spjain.edu,MGB,Sep-22,Term 1,Placed,2.94,Medium,Low,High,High,Medium
+Student_2_Sep-22,student2@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.76,Low,Medium,Low,Medium,Medium
+Student_3_Sep-22,student3@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,2.76,Low,High,High,Medium,None
+Student_4_Sep-22,student4@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.9,Low,None,Medium,Low,Low
+Student_5_Sep-22,student5@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.82,High,High,Medium,Medium,Medium
+Student_6_Sep-22,student6@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.54,Low,None,Medium,High,Medium
+Student_7_Sep-22,student7@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,2.99,High,Low,Medium,None,Medium
+Student_8_Sep-22,student8@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.69,High,Medium,None,Low,None
+Student_9_Sep-22,student9@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,2.98,Low,None,None,None,Low
+Student_10_Sep-22,student10@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,2.81,Medium,None,Medium,None,Medium
+Student_11_Sep-22,student11@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.83,Medium,Low,Low,High,Medium
+Student_12_Sep-22,student12@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.17,Low,Medium,High,None,Low
+Student_13_Sep-22,student13@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,3.2,None,Low,None,Low,Low
+Student_14_Sep-22,student14@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,2.77,Medium,Low,High,Low,High
+Student_15_Sep-22,student15@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,3.68,Medium,High,High,High,Low
+Student_16_Sep-22,student16@sep-22.spjain.edu,MGB,Sep-22,Term 1,Placed,3.0,Low,Low,Low,Low,Medium
+Student_17_Sep-22,student17@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.51,Low,Low,Low,None,None
+Student_18_Sep-22,student18@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.48,Medium,None,Medium,Medium,Medium
+Student_19_Sep-22,student19@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,3.27,None,None,Low,High,Low
+Student_20_Sep-22,student20@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.66,None,Medium,None,None,High
+Student_21_Sep-22,student21@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,3.37,Medium,Low,High,None,Low
+Student_22_Sep-22,student22@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,3.13,None,Low,Low,High,High
+Student_23_Sep-22,student23@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,3.97,Low,None,None,Medium,None
+Student_24_Sep-22,student24@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,2.78,High,Low,None,Low,High
+Student_25_Sep-22,student25@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,3.51,Medium,High,None,High,Medium
+Student_26_Sep-22,student26@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,3.87,None,Low,Medium,Medium,Low
+Student_27_Sep-22,student27@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,2.59,High,Medium,Low,None,None
+Student_28_Sep-22,student28@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,2.69,None,None,High,None,Medium
+Student_29_Sep-22,student29@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,2.96,None,Medium,Low,Medium,None
+Student_30_Sep-22,student30@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,2.51,Medium,None,High,None,Medium
+Student_31_Sep-22,student31@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.19,High,High,Low,None,Low
+Student_32_Sep-22,student32@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.42,Medium,None,Medium,Medium,None
+Student_33_Sep-22,student33@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,3.87,Medium,High,None,High,Medium
+Student_34_Sep-22,student34@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.82,Low,High,Medium,None,None
+Student_35_Sep-22,student35@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,2.61,High,Low,None,None,Medium
+Student_36_Sep-22,student36@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,3.26,None,High,High,None,None
+Student_37_Sep-22,student37@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.78,None,High,High,Low,High
+Student_38_Sep-22,student38@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.51,None,None,None,High,High
+Student_39_Sep-22,student39@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.71,Low,Medium,Medium,High,High
+Student_40_Sep-22,student40@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.69,None,Medium,High,High,Low
+Student_41_Sep-22,student41@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.04,Medium,High,Medium,None,High
+Student_42_Sep-22,student42@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.54,None,High,High,High,None
+Student_43_Sep-22,student43@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,3.06,Medium,Medium,High,High,None
+Student_44_Sep-22,student44@sep-22.spjain.edu,MGB,Sep-22,Term 1,Placed,3.01,Medium,High,Medium,High,Medium
+Student_45_Sep-22,student45@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,3.12,High,Low,Low,Medium,Medium
+Student_46_Sep-22,student46@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,2.68,Medium,High,Low,Low,Medium
+Student_47_Sep-22,student47@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.48,High,None,Medium,None,Medium
+Student_48_Sep-22,student48@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.47,Low,High,High,Medium,None
+Student_49_Sep-22,student49@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.97,High,Medium,Low,High,Low
+Student_50_Sep-22,student50@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,3.0,Low,None,High,Low,High
+Student_51_Sep-22,student51@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,3.27,Medium,High,Medium,High,High
+Student_52_Sep-22,student52@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,3.61,Medium,High,High,Medium,Low
+Student_53_Sep-22,student53@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,2.8,None,Medium,High,Medium,None
+Student_54_Sep-22,student54@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,2.92,High,None,Low,High,Medium
+Student_55_Sep-22,student55@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,2.86,High,Medium,Medium,None,Low
+Student_56_Sep-22,student56@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,3.44,High,None,High,Medium,High
+Student_57_Sep-22,student57@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,2.69,Medium,Medium,Medium,High,None
+Student_58_Sep-22,student58@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,2.75,Medium,Medium,None,Medium,Medium
+Student_59_Sep-22,student59@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.36,Medium,Low,None,High,Low
+Student_60_Sep-22,student60@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,2.75,None,None,None,Medium,None
+Student_61_Sep-22,student61@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,3.14,High,Low,Medium,Medium,Low
+Student_62_Sep-22,student62@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,2.96,Low,None,None,High,Low
+Student_63_Sep-22,student63@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.79,Medium,High,High,Low,None
+Student_64_Sep-22,student64@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,3.91,Low,None,None,Low,High
+Student_65_Sep-22,student65@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,3.99,High,None,Medium,Medium,None
+Student_66_Sep-22,student66@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.26,None,Low,High,None,None
+Student_67_Sep-22,student67@sep-22.spjain.edu,MGB,Sep-22,Term 2,Placed,3.22,Low,High,Medium,Low,None
+Student_68_Sep-22,student68@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.87,Medium,High,High,High,None
+Student_69_Sep-22,student69@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,3.28,Medium,None,Medium,None,Low
+Student_70_Sep-22,student70@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.38,None,High,High,Low,Medium
+Student_71_Sep-22,student71@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,3.9,None,Low,High,Medium,None
+Student_72_Sep-22,student72@sep-22.spjain.edu,MGB,Sep-22,Term 1,Placed,2.6,None,None,Low,None,Medium
+Student_73_Sep-22,student73@sep-22.spjain.edu,MGB,Sep-22,Term 2,Not Placed,2.78,Medium,Medium,None,Medium,High
+Student_74_Sep-22,student74@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,2.78,High,Medium,Medium,Low,None
+Student_75_Sep-22,student75@sep-22.spjain.edu,MGB,Sep-22,Term 4,Placed,3.8,Medium,High,Low,High,None
+Student_76_Sep-22,student76@sep-22.spjain.edu,MGB,Sep-22,Term 1,Not Placed,2.6,High,Medium,None,None,High
+Student_77_Sep-22,student77@sep-22.spjain.edu,MGB,Sep-22,Term 1,Placed,2.9,High,High,High,Medium,High
+Student_78_Sep-22,student78@sep-22.spjain.edu,MGB,Sep-22,Term 4,Not Placed,3.9,None,Low,None,Low,Low
+Student_79_Sep-22,student79@sep-22.spjain.edu,MGB,Sep-22,Term 3,Not Placed,3.73,Low,None,None,High,Low
+Student_80_Sep-22,student80@sep-22.spjain.edu,MGB,Sep-22,Term 3,Placed,2.5,None,Medium,High,High,Low
+Student_1_Jan-22,student1@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,3.43,None,None,Medium,High,Low
+Student_2_Jan-22,student2@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.81,Low,None,Medium,None,None
+Student_3_Jan-22,student3@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.14,None,High,None,Low,Medium
+Student_4_Jan-22,student4@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.69,High,Low,None,Medium,None
+Student_5_Jan-22,student5@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.49,Medium,Medium,Medium,Medium,High
+Student_6_Jan-22,student6@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.99,High,Medium,Low,None,Low
+Student_7_Jan-22,student7@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.5,High,Medium,None,High,Low
+Student_8_Jan-22,student8@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,3.47,None,None,None,Medium,Medium
+Student_9_Jan-22,student9@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,2.94,High,High,Low,Medium,High
+Student_10_Jan-22,student10@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.78,None,High,Low,High,Medium
+Student_11_Jan-22,student11@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.98,Low,Medium,Medium,High,None
+Student_12_Jan-22,student12@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,2.97,Low,Medium,None,None,Medium
+Student_13_Jan-22,student13@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.62,High,Low,Low,High,Low
+Student_14_Jan-22,student14@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.24,None,High,Low,Medium,Medium
+Student_15_Jan-22,student15@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,3.88,Medium,None,None,Low,Medium
+Student_16_Jan-22,student16@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.01,None,Low,None,None,High
+Student_17_Jan-22,student17@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,3.54,Medium,None,High,Medium,Low
+Student_18_Jan-22,student18@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.19,Medium,Medium,None,None,Low
+Student_19_Jan-22,student19@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.83,Medium,High,Low,High,Medium
+Student_20_Jan-22,student20@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,3.52,Medium,High,High,Low,None
+Student_21_Jan-22,student21@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.68,Low,None,Medium,None,Medium
+Student_22_Jan-22,student22@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,2.86,None,Low,Medium,None,High
+Student_23_Jan-22,student23@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.91,None,Low,High,High,High
+Student_24_Jan-22,student24@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.23,Medium,High,None,Low,High
+Student_25_Jan-22,student25@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.23,None,Low,Medium,High,Low
+Student_26_Jan-22,student26@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.11,High,None,None,High,High
+Student_27_Jan-22,student27@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.77,Medium,High,None,Low,High
+Student_28_Jan-22,student28@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.36,Medium,High,Low,High,High
+Student_29_Jan-22,student29@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.05,Medium,None,High,Medium,Low
+Student_30_Jan-22,student30@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.49,None,Medium,None,Low,Low
+Student_31_Jan-22,student31@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,3.49,High,Medium,High,Medium,Medium
+Student_32_Jan-22,student32@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.94,Medium,Low,Low,Medium,None
+Student_33_Jan-22,student33@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,2.89,Medium,None,None,High,Low
+Student_34_Jan-22,student34@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.3,High,Low,Medium,Low,Medium
+Student_35_Jan-22,student35@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,2.97,None,None,High,Medium,High
+Student_36_Jan-22,student36@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.3,None,High,Low,High,Low
+Student_37_Jan-22,student37@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,2.72,Medium,Low,High,High,None
+Student_38_Jan-22,student38@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.93,High,Medium,Low,None,High
+Student_39_Jan-22,student39@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,3.33,High,High,Medium,Low,None
+Student_40_Jan-22,student40@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.71,None,None,Medium,Low,High
+Student_41_Jan-22,student41@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.71,Low,High,Low,Medium,None
+Student_42_Jan-22,student42@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.16,Low,None,Low,Low,None
+Student_43_Jan-22,student43@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.45,High,Low,None,Low,High
+Student_44_Jan-22,student44@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.59,High,Medium,High,High,Low
+Student_45_Jan-22,student45@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.94,None,Medium,None,None,High
+Student_46_Jan-22,student46@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.42,High,None,Low,Medium,High
+Student_47_Jan-22,student47@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.51,Medium,Medium,High,Low,Medium
+Student_48_Jan-22,student48@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.13,None,Medium,Low,High,Low
+Student_49_Jan-22,student49@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.94,None,Low,Low,Medium,High
+Student_50_Jan-22,student50@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.88,High,None,None,High,Low
+Student_51_Jan-22,student51@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,2.99,Low,High,High,Low,Medium
+Student_52_Jan-22,student52@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.51,None,None,Medium,High,Medium
+Student_53_Jan-22,student53@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.87,High,Medium,Low,Medium,None
+Student_54_Jan-22,student54@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.95,None,Medium,Low,High,None
+Student_55_Jan-22,student55@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,2.71,None,High,Low,Medium,High
+Student_56_Jan-22,student56@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,2.56,None,None,Low,High,Medium
+Student_57_Jan-22,student57@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.94,Low,High,None,None,None
+Student_58_Jan-22,student58@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.63,None,None,Medium,High,High
+Student_59_Jan-22,student59@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,2.73,High,Medium,High,Low,None
+Student_60_Jan-22,student60@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,3.22,Low,None,High,None,Medium
+Student_61_Jan-22,student61@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.87,High,Low,Medium,None,Medium
+Student_62_Jan-22,student62@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.55,Medium,Medium,Medium,Medium,High
+Student_63_Jan-22,student63@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,2.56,Medium,Medium,None,High,Medium
+Student_64_Jan-22,student64@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.07,Low,Medium,Medium,Low,None
+Student_65_Jan-22,student65@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.26,High,Low,High,Low,Low
+Student_66_Jan-22,student66@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,3.57,Medium,Low,High,Medium,High
+Student_67_Jan-22,student67@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.49,Low,Medium,Low,None,Low
+Student_68_Jan-22,student68@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Not Placed,2.78,None,Low,Low,Low,High
+Student_69_Jan-22,student69@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,3.52,Medium,Low,Low,Low,Low
+Student_70_Jan-22,student70@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,2.82,None,High,High,Medium,High
+Student_71_Jan-22,student71@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,2.79,None,High,High,Low,Low
+Student_72_Jan-22,student72@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.3,Medium,High,Medium,Medium,None
+Student_73_Jan-22,student73@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,3.84,None,High,None,High,None
+Student_74_Jan-22,student74@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,2.75,Low,Medium,Low,High,High
+Student_75_Jan-22,student75@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.24,High,Medium,None,None,None
+Student_76_Jan-22,student76@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.81,High,Medium,Medium,High,None
+Student_77_Jan-22,student77@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Not Placed,3.78,Low,Low,High,Medium,Medium
+Student_78_Jan-22,student78@jan-22.spjain.edu,GMBA,Jan-22,Term 1,Placed,2.94,Medium,Low,Medium,Low,High
+Student_79_Jan-22,student79@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,3.3,High,Low,Low,Low,High
+Student_80_Jan-22,student80@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.11,Low,Low,High,High,Low
+Student_81_Jan-22,student81@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,2.77,High,High,None,Low,Medium
+Student_82_Jan-22,student82@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,2.99,Medium,None,Medium,None,Medium
+Student_83_Jan-22,student83@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.72,None,High,None,Medium,None
+Student_84_Jan-22,student84@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.78,None,Medium,Low,High,Low
+Student_85_Jan-22,student85@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,3.73,Medium,High,Medium,High,None
+Student_86_Jan-22,student86@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.86,None,High,Medium,High,High
+Student_87_Jan-22,student87@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Not Placed,2.53,High,High,Medium,Medium,High
+Student_88_Jan-22,student88@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.91,High,High,High,Low,High
+Student_89_Jan-22,student89@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,3.22,None,Medium,Low,Low,None
+Student_90_Jan-22,student90@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Placed,2.58,Low,High,High,High,High
+Student_91_Jan-22,student91@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.27,None,Medium,High,Medium,High
+Student_92_Jan-22,student92@jan-22.spjain.edu,GMBA,Jan-22,Term 2,Not Placed,3.08,Low,Low,Medium,None,High
+Student_93_Jan-22,student93@jan-22.spjain.edu,GMBA,Jan-22,Term 4,Placed,3.99,Medium,High,Low,Low,High
+Student_94_Jan-22,student94@jan-22.spjain.edu,GMBA,Jan-22,Term 3,Placed,3.04,High,High,Medium,Medium,None
+Student_1_May-22,student1@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.52,Medium,Low,Low,Low,High
+Student_2_May-22,student2@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,3.49,Low,High,High,Medium,Medium
+Student_3_May-22,student3@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.09,None,High,High,None,Low
+Student_4_May-22,student4@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,2.98,Medium,Medium,None,Low,Low
+Student_5_May-22,student5@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.22,None,Low,Medium,Medium,None
+Student_6_May-22,student6@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.31,None,Medium,None,High,None
+Student_7_May-22,student7@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,2.85,High,Medium,High,Low,None
+Student_8_May-22,student8@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,2.59,Low,Low,Medium,Low,None
+Student_9_May-22,student9@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.86,Medium,High,Medium,High,Medium
+Student_10_May-22,student10@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.54,None,Low,High,High,High
+Student_11_May-22,student11@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,2.55,Low,Medium,High,Medium,High
+Student_12_May-22,student12@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,2.72,Medium,None,Medium,Low,None
+Student_13_May-22,student13@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.17,High,Low,High,Medium,High
+Student_14_May-22,student14@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.25,High,None,None,None,Low
+Student_15_May-22,student15@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.14,Medium,Low,High,None,Medium
+Student_16_May-22,student16@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.43,Medium,None,Medium,High,None
+Student_17_May-22,student17@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.48,None,None,Medium,High,Low
+Student_18_May-22,student18@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,2.9,High,High,Low,Low,High
+Student_19_May-22,student19@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.74,High,High,Medium,High,Low
+Student_20_May-22,student20@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.46,High,Medium,Low,High,High
+Student_21_May-22,student21@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,2.57,High,Low,High,Low,Low
+Student_22_May-22,student22@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,2.97,None,Low,Medium,High,Low
+Student_23_May-22,student23@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.25,Medium,High,None,None,High
+Student_24_May-22,student24@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,2.73,None,High,High,Medium,Medium
+Student_25_May-22,student25@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.99,Low,None,Medium,Low,Low
+Student_26_May-22,student26@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,2.56,None,Medium,Medium,High,Medium
+Student_27_May-22,student27@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.71,Medium,Low,High,None,High
+Student_28_May-22,student28@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,2.75,Low,Medium,High,Low,Low
+Student_29_May-22,student29@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,2.61,None,Low,None,Low,None
+Student_30_May-22,student30@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.96,None,High,Low,Low,None
+Student_31_May-22,student31@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.16,Low,Low,High,None,None
+Student_32_May-22,student32@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.43,High,Medium,High,Medium,High
+Student_33_May-22,student33@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,2.74,None,High,Medium,None,None
+Student_34_May-22,student34@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,3.2,None,High,High,Medium,High
+Student_35_May-22,student35@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,2.8,Low,High,Low,Low,None
+Student_36_May-22,student36@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.67,None,High,Medium,None,Medium
+Student_37_May-22,student37@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.35,None,High,Low,None,None
+Student_38_May-22,student38@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,2.82,High,None,Low,Low,Medium
+Student_39_May-22,student39@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.6,None,High,Low,None,None
+Student_40_May-22,student40@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.78,High,High,None,Low,Low
+Student_41_May-22,student41@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.02,None,None,None,Medium,None
+Student_42_May-22,student42@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,3.73,Medium,High,Medium,Low,Low
+Student_43_May-22,student43@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.84,Medium,None,Low,High,None
+Student_44_May-22,student44@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.98,Medium,None,High,High,Medium
+Student_45_May-22,student45@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.54,Medium,None,Medium,Low,Medium
+Student_46_May-22,student46@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.06,Low,High,Low,Low,High
+Student_47_May-22,student47@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.12,Low,Low,None,Low,High
+Student_48_May-22,student48@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.14,Medium,Medium,None,None,Low
+Student_49_May-22,student49@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.55,High,High,High,High,High
+Student_50_May-22,student50@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.24,High,None,High,Low,None
+Student_51_May-22,student51@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.67,None,High,Medium,None,High
+Student_52_May-22,student52@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,3.12,None,High,Low,Medium,Low
+Student_53_May-22,student53@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,2.96,None,Medium,High,None,High
+Student_54_May-22,student54@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.73,Low,Low,Low,Medium,None
+Student_55_May-22,student55@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.79,None,High,None,Medium,None
+Student_56_May-22,student56@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.86,Medium,None,Medium,High,Medium
+Student_57_May-22,student57@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,3.76,Low,Medium,Low,Medium,High
+Student_58_May-22,student58@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.16,Medium,High,High,None,High
+Student_59_May-22,student59@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.45,Low,Medium,Medium,Medium,Low
+Student_60_May-22,student60@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.59,None,Low,High,Low,High
+Student_61_May-22,student61@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.46,High,High,None,High,High
+Student_62_May-22,student62@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.89,Medium,High,High,None,Low
+Student_63_May-22,student63@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.65,High,None,High,None,High
+Student_64_May-22,student64@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.06,Low,None,Medium,Medium,Low
+Student_65_May-22,student65@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.49,High,High,Low,Low,None
+Student_66_May-22,student66@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.28,Low,High,Medium,High,High
+Student_67_May-22,student67@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.8,High,Medium,High,Low,Medium
+Student_68_May-22,student68@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.59,Medium,Low,Low,None,Medium
+Student_69_May-22,student69@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,3.56,Low,None,None,None,None
+Student_70_May-22,student70@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,2.76,Low,None,High,Low,Medium
+Student_71_May-22,student71@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.15,None,None,Low,Low,High
+Student_72_May-22,student72@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,2.8,Low,Low,High,None,Medium
+Student_73_May-22,student73@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,3.38,Low,Low,None,High,High
+Student_74_May-22,student74@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.14,Medium,Low,Medium,High,Medium
+Student_75_May-22,student75@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,2.72,Low,High,High,Low,High
+Student_76_May-22,student76@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.2,Low,Medium,High,None,Low
+Student_77_May-22,student77@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,2.65,Low,High,None,None,Low
+Student_78_May-22,student78@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,2.8,None,None,High,Low,None
+Student_79_May-22,student79@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.18,Low,None,Medium,High,Low
+Student_80_May-22,student80@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.87,Low,Medium,None,High,High
+Student_81_May-22,student81@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,2.6,High,None,Low,Low,Low
+Student_82_May-22,student82@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,2.62,Low,None,High,None,Low
+Student_83_May-22,student83@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.77,High,Low,High,High,Medium
+Student_84_May-22,student84@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.71,Low,None,Medium,Medium,High
+Student_85_May-22,student85@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.72,High,High,Low,High,High
+Student_86_May-22,student86@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,2.61,Low,None,Low,Medium,Medium
+Student_87_May-22,student87@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,2.69,Medium,None,None,High,Medium
+Student_88_May-22,student88@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.96,Low,None,Medium,High,Low
+Student_89_May-22,student89@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.03,Medium,Medium,High,High,None
+Student_90_May-22,student90@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.52,Medium,None,None,Medium,None
+Student_91_May-22,student91@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,2.81,Low,Low,None,Medium,High
+Student_92_May-22,student92@may-22.spjain.edu,GMBA,May-22,Term 2,Placed,3.88,None,None,Medium,None,Medium
+Student_93_May-22,student93@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,3.13,Low,High,Medium,None,High
+Student_94_May-22,student94@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.52,None,Medium,Low,High,None
+Student_95_May-22,student95@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,2.9,High,Low,None,Medium,Medium
+Student_96_May-22,student96@may-22.spjain.edu,GMBA,May-22,Term 4,Not Placed,3.26,High,None,Low,Low,High
+Student_97_May-22,student97@may-22.spjain.edu,GMBA,May-22,Term 1,Not Placed,3.6,None,Medium,Low,Medium,None
+Student_98_May-22,student98@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.29,None,None,High,High,Medium
+Student_99_May-22,student99@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.67,High,Low,Medium,High,High
+Student_100_May-22,student100@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.82,None,None,None,High,Medium
+Student_101_May-22,student101@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,2.81,Medium,Low,Low,Low,High
+Student_102_May-22,student102@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.25,None,Low,Medium,Medium,Low
+Student_103_May-22,student103@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,2.78,None,Medium,High,None,None
+Student_104_May-22,student104@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,2.77,Low,High,Medium,High,Low
+Student_105_May-22,student105@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.23,Medium,None,High,High,High
+Student_106_May-22,student106@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,3.29,Medium,Medium,High,High,Low
+Student_107_May-22,student107@may-22.spjain.edu,GMBA,May-22,Term 3,Not Placed,3.24,Low,Low,None,Low,Low
+Student_108_May-22,student108@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,3.74,Low,Low,None,High,Low
+Student_109_May-22,student109@may-22.spjain.edu,GMBA,May-22,Term 1,Placed,3.97,Medium,Medium,Low,None,High
+Student_110_May-22,student110@may-22.spjain.edu,GMBA,May-22,Term 2,Not Placed,3.04,High,Medium,None,High,Low
+Student_111_May-22,student111@may-22.spjain.edu,GMBA,May-22,Term 4,Placed,2.9,Low,Low,None,None,Low
+Student_112_May-22,student112@may-22.spjain.edu,GMBA,May-22,Term 3,Placed,2.56,Low,High,None,None,Low
+Student_1_Sep-22,student1@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.25,Medium,None,Medium,Low,Medium
+Student_2_Sep-22,student2@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,2.93,Low,High,None,High,Medium
+Student_3_Sep-22,student3@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Placed,2.58,Low,High,None,Low,High
+Student_4_Sep-22,student4@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.71,Low,Medium,High,Low,Medium
+Student_5_Sep-22,student5@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.38,High,Low,Medium,High,None
+Student_6_Sep-22,student6@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Placed,3.72,None,None,None,High,Low
+Student_7_Sep-22,student7@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,2.76,None,Low,Medium,Medium,Low
+Student_8_Sep-22,student8@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.33,Low,Low,High,Low,None
+Student_9_Sep-22,student9@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.67,None,High,Medium,None,Low
+Student_10_Sep-22,student10@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.03,None,None,None,None,High
+Student_11_Sep-22,student11@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.63,Medium,Low,Medium,Low,Medium
+Student_12_Sep-22,student12@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Placed,3.63,None,Medium,None,High,None
+Student_13_Sep-22,student13@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,2.63,Low,High,Low,High,Low
+Student_14_Sep-22,student14@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.8,High,High,Medium,Medium,None
+Student_15_Sep-22,student15@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,3.84,Medium,Low,Low,High,None
+Student_16_Sep-22,student16@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,2.6,Medium,High,High,Medium,Medium
+Student_17_Sep-22,student17@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.54,None,None,High,High,Low
+Student_18_Sep-22,student18@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.97,Medium,Low,None,High,None
+Student_19_Sep-22,student19@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,2.78,Medium,Medium,Medium,None,None
+Student_20_Sep-22,student20@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.5,None,Low,Low,None,None
+Student_21_Sep-22,student21@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,3.13,None,Medium,High,Low,None
+Student_22_Sep-22,student22@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.52,Low,High,None,High,Low
+Student_23_Sep-22,student23@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.82,None,Low,High,Medium,Low
+Student_24_Sep-22,student24@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.85,None,High,Medium,Medium,Low
+Student_25_Sep-22,student25@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.57,Medium,Low,Low,None,High
+Student_26_Sep-22,student26@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.94,Medium,Low,Medium,Low,Low
+Student_27_Sep-22,student27@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,2.57,Medium,Medium,High,High,None
+Student_28_Sep-22,student28@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.64,Medium,High,Medium,None,None
+Student_29_Sep-22,student29@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.42,High,High,High,None,Low
+Student_30_Sep-22,student30@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,2.98,None,None,Medium,Medium,Medium
+Student_31_Sep-22,student31@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.16,Low,Medium,Medium,Medium,None
+Student_32_Sep-22,student32@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,3.37,High,Medium,High,Medium,High
+Student_33_Sep-22,student33@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.35,High,Low,Medium,None,Medium
+Student_34_Sep-22,student34@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.25,Low,Medium,High,None,None
+Student_35_Sep-22,student35@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.35,Medium,Low,High,High,None
+Student_36_Sep-22,student36@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,3.4,Low,High,Medium,Low,Low
+Student_37_Sep-22,student37@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,2.6,Medium,Low,High,Medium,Low
+Student_38_Sep-22,student38@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.32,High,None,Low,High,High
+Student_39_Sep-22,student39@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,2.89,Low,High,Medium,Medium,Low
+Student_40_Sep-22,student40@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.24,High,Low,High,None,High
+Student_41_Sep-22,student41@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,2.91,High,High,High,None,Medium
+Student_42_Sep-22,student42@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.22,Medium,High,High,High,Medium
+Student_43_Sep-22,student43@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.33,High,None,None,Medium,None
+Student_44_Sep-22,student44@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,2.67,High,Low,Low,Medium,Low
+Student_45_Sep-22,student45@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,2.86,High,High,Medium,None,High
+Student_46_Sep-22,student46@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.72,High,High,Medium,None,Medium
+Student_47_Sep-22,student47@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Placed,2.97,Medium,Low,Medium,None,None
+Student_48_Sep-22,student48@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,2.61,Medium,None,Low,Medium,None
+Student_49_Sep-22,student49@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.67,Low,Medium,Low,Low,High
+Student_50_Sep-22,student50@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,3.85,None,Low,High,Medium,Medium
+Student_51_Sep-22,student51@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.61,Medium,High,Low,Medium,High
+Student_52_Sep-22,student52@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.47,None,High,High,None,High
+Student_53_Sep-22,student53@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.38,Low,High,High,Low,None
+Student_54_Sep-22,student54@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.79,None,None,High,Medium,Medium
+Student_55_Sep-22,student55@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.49,High,Low,High,Low,High
+Student_56_Sep-22,student56@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.72,Medium,High,Low,None,None
+Student_57_Sep-22,student57@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.33,Low,None,None,Low,Medium
+Student_58_Sep-22,student58@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.62,Medium,Medium,High,Low,Low
+Student_59_Sep-22,student59@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.66,Low,Low,None,High,Low
+Student_60_Sep-22,student60@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,3.49,High,High,Low,Low,Low
+Student_61_Sep-22,student61@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.19,None,High,None,High,Low
+Student_62_Sep-22,student62@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.11,High,Low,Low,High,None
+Student_63_Sep-22,student63@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.65,Low,Low,None,Medium,Medium
+Student_64_Sep-22,student64@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,3.81,High,Medium,High,High,Medium
+Student_65_Sep-22,student65@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,2.56,Medium,High,Low,Low,High
+Student_66_Sep-22,student66@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Placed,3.4,Low,High,High,None,High
+Student_67_Sep-22,student67@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,2.81,Low,None,High,None,Low
+Student_68_Sep-22,student68@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,2.99,Low,Low,None,Low,None
+Student_69_Sep-22,student69@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Placed,2.74,High,Low,Medium,High,High
+Student_70_Sep-22,student70@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.27,Low,Medium,None,High,Medium
+Student_71_Sep-22,student71@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.93,Medium,None,High,High,None
+Student_72_Sep-22,student72@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,2.9,Low,Medium,Low,Medium,Low
+Student_73_Sep-22,student73@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,2.97,High,Medium,None,None,Low
+Student_74_Sep-22,student74@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,3.34,High,Low,None,Medium,None
+Student_75_Sep-22,student75@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.35,Medium,Medium,None,Medium,Low
+Student_76_Sep-22,student76@sep-22.spjain.edu,GMBA,Sep-22,Term 3,Not Placed,2.97,High,None,None,Medium,None
+Student_77_Sep-22,student77@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,3.81,High,Medium,High,None,Low
+Student_78_Sep-22,student78@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,2.69,High,None,High,Medium,High
+Student_79_Sep-22,student79@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.86,Low,Medium,None,Medium,Low
+Student_80_Sep-22,student80@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,3.85,Low,High,High,High,Low
+Student_81_Sep-22,student81@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.45,None,Low,None,Medium,Medium
+Student_82_Sep-22,student82@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.84,Low,None,None,Low,None
+Student_83_Sep-22,student83@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.92,High,Medium,Low,None,Low
+Student_84_Sep-22,student84@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.93,None,Low,Medium,Medium,High
+Student_85_Sep-22,student85@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.28,Low,High,Low,Low,Medium
+Student_86_Sep-22,student86@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.91,None,Medium,Medium,Low,Low
+Student_87_Sep-22,student87@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,3.5,Medium,High,Medium,Medium,High
+Student_88_Sep-22,student88@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Placed,2.51,High,Low,Medium,Low,None
+Student_89_Sep-22,student89@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.75,Low,High,High,None,None
+Student_90_Sep-22,student90@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,2.63,Medium,Low,High,Low,High
+Student_91_Sep-22,student91@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Placed,2.99,Low,Low,None,High,Low
+Student_92_Sep-22,student92@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.65,Low,Medium,High,High,Medium
+Student_93_Sep-22,student93@sep-22.spjain.edu,GMBA,Sep-22,Term 2,Not Placed,3.81,Medium,Medium,Low,None,Medium
+Student_94_Sep-22,student94@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.6,Low,Medium,Medium,High,Medium
+Student_95_Sep-22,student95@sep-22.spjain.edu,GMBA,Sep-22,Term 1,Not Placed,2.6,Medium,Medium,High,None,Low
+Student_96_Sep-22,student96@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Placed,3.46,None,Medium,Low,Medium,Low
+Student_97_Sep-22,student97@sep-22.spjain.edu,GMBA,Sep-22,Term 4,Not Placed,3.7,None,Low,None,Low,High
+Student_1_Jan-23,student1@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,3.13,None,Low,Medium,None,High
+Student_2_Jan-23,student2@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.93,High,Low,None,Medium,None
+Student_3_Jan-23,student3@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.53,High,Low,Low,Medium,None
+Student_4_Jan-23,student4@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,2.89,Low,None,None,None,None
+Student_5_Jan-23,student5@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.87,Low,None,Medium,Low,High
+Student_6_Jan-23,student6@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.11,Medium,Medium,High,Low,Medium
+Student_7_Jan-23,student7@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,3.7,High,Low,Low,High,High
+Student_8_Jan-23,student8@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.3,Medium,None,Medium,Low,Medium
+Student_9_Jan-23,student9@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.12,Medium,High,High,High,High
+Student_10_Jan-23,student10@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.56,Low,Low,High,Medium,Medium
+Student_11_Jan-23,student11@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,3.62,None,None,Medium,Low,High
+Student_12_Jan-23,student12@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,3.26,None,High,High,Medium,High
+Student_13_Jan-23,student13@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,3.75,Low,Low,None,High,Low
+Student_14_Jan-23,student14@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,2.8,Low,None,None,Low,None
+Student_15_Jan-23,student15@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,3.95,Low,None,Low,Medium,None
+Student_16_Jan-23,student16@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,3.59,Low,High,None,Medium,High
+Student_17_Jan-23,student17@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,3.17,None,High,Low,Low,Medium
+Student_18_Jan-23,student18@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,3.34,Medium,None,Medium,High,Medium
+Student_19_Jan-23,student19@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.29,Medium,High,None,Low,None
+Student_20_Jan-23,student20@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.75,High,Low,None,High,Low
+Student_21_Jan-23,student21@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.32,Low,Medium,Low,None,None
+Student_22_Jan-23,student22@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,3.14,High,None,Medium,High,Medium
+Student_23_Jan-23,student23@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,2.8,High,High,None,None,Medium
+Student_24_Jan-23,student24@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,3.62,None,None,High,Low,High
+Student_25_Jan-23,student25@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.58,Low,Low,Low,Medium,Medium
+Student_26_Jan-23,student26@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.7,Low,Low,None,None,Medium
+Student_27_Jan-23,student27@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,2.75,None,High,Low,None,Medium
+Student_28_Jan-23,student28@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,2.6,High,Low,Medium,Medium,High
+Student_29_Jan-23,student29@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.64,None,Medium,High,Low,Medium
+Student_30_Jan-23,student30@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.89,Low,Low,None,Low,Low
+Student_31_Jan-23,student31@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.34,Medium,High,Medium,High,Medium
+Student_32_Jan-23,student32@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,2.89,High,Medium,None,Low,Low
+Student_33_Jan-23,student33@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,2.75,Medium,Medium,High,Medium,Medium
+Student_34_Jan-23,student34@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.81,Low,High,High,Medium,None
+Student_35_Jan-23,student35@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.99,High,Medium,None,None,None
+Student_36_Jan-23,student36@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.97,Low,High,Medium,Medium,Low
+Student_37_Jan-23,student37@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.34,None,Low,High,None,Low
+Student_38_Jan-23,student38@jan-23.spjain.edu,MGB,Jan-23,Term 2,Placed,3.8,None,Low,None,Medium,Medium
+Student_39_Jan-23,student39@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.77,High,Medium,None,Low,Medium
+Student_40_Jan-23,student40@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,2.99,Low,Low,High,Low,High
+Student_41_Jan-23,student41@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.1,Low,Low,High,High,None
+Student_42_Jan-23,student42@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.76,High,High,Low,High,Medium
+Student_43_Jan-23,student43@jan-23.spjain.edu,MGB,Jan-23,Term 2,Placed,2.62,High,High,None,High,Low
+Student_44_Jan-23,student44@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,3.98,Medium,High,Low,Low,Medium
+Student_45_Jan-23,student45@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.91,None,None,High,High,Medium
+Student_46_Jan-23,student46@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,2.63,None,High,Low,Medium,None
+Student_47_Jan-23,student47@jan-23.spjain.edu,MGB,Jan-23,Term 2,Placed,2.97,Low,High,Low,None,High
+Student_48_Jan-23,student48@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,2.67,High,Medium,High,Medium,Low
+Student_49_Jan-23,student49@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,3.68,Medium,Low,None,High,Medium
+Student_50_Jan-23,student50@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.62,Medium,Low,High,None,Low
+Student_51_Jan-23,student51@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,2.71,Low,None,Medium,Medium,Low
+Student_52_Jan-23,student52@jan-23.spjain.edu,MGB,Jan-23,Term 2,Placed,3.97,Low,None,Low,High,None
+Student_53_Jan-23,student53@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.02,None,Medium,High,None,Medium
+Student_54_Jan-23,student54@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.02,Low,Medium,Low,Low,High
+Student_55_Jan-23,student55@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,2.83,Low,High,High,Medium,None
+Student_56_Jan-23,student56@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.38,Low,None,High,Low,High
+Student_57_Jan-23,student57@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,2.74,None,Low,Low,High,Medium
+Student_58_Jan-23,student58@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,2.74,Medium,High,None,None,None
+Student_59_Jan-23,student59@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.75,Low,Low,Low,None,None
+Student_60_Jan-23,student60@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.96,Medium,High,None,None,Low
+Student_61_Jan-23,student61@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,2.75,Medium,Low,Medium,Medium,Medium
+Student_62_Jan-23,student62@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.96,Low,Medium,Low,None,None
+Student_63_Jan-23,student63@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,2.5,Medium,Medium,Medium,Low,Low
+Student_64_Jan-23,student64@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,2.85,Medium,None,High,Medium,Medium
+Student_65_Jan-23,student65@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,3.22,Low,High,None,None,Medium
+Student_66_Jan-23,student66@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.75,Medium,High,None,Medium,Low
+Student_67_Jan-23,student67@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.66,Low,None,None,High,Low
+Student_68_Jan-23,student68@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,2.83,Medium,Medium,Low,Low,Low
+Student_69_Jan-23,student69@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,3.87,Medium,Medium,None,Medium,High
+Student_70_Jan-23,student70@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.15,Low,None,Medium,None,Medium
+Student_71_Jan-23,student71@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.08,None,High,Low,None,Medium
+Student_72_Jan-23,student72@jan-23.spjain.edu,MGB,Jan-23,Term 2,Not Placed,3.52,High,None,High,Low,High
+Student_73_Jan-23,student73@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,2.74,Medium,None,None,High,None
+Student_74_Jan-23,student74@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.66,Low,None,Low,High,None
+Student_75_Jan-23,student75@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.57,Low,High,Medium,None,None
+Student_76_Jan-23,student76@jan-23.spjain.edu,MGB,Jan-23,Term 1,Placed,2.51,Low,Medium,None,None,High
+Student_77_Jan-23,student77@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.56,None,None,Low,High,Low
+Student_78_Jan-23,student78@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.01,Low,High,Low,Medium,Low
+Student_79_Jan-23,student79@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,2.53,Low,Low,High,High,Low
+Student_80_Jan-23,student80@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,2.87,High,High,Medium,Medium,None
+Student_81_Jan-23,student81@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.02,None,Medium,None,High,High
+Student_82_Jan-23,student82@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,2.56,High,None,High,Low,Low
+Student_83_Jan-23,student83@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,2.53,Low,High,None,High,Medium
+Student_84_Jan-23,student84@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.42,Medium,High,Low,None,Medium
+Student_85_Jan-23,student85@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.62,Medium,Low,High,None,Medium
+Student_86_Jan-23,student86@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,2.51,Medium,High,None,Medium,Low
+Student_87_Jan-23,student87@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.4,Low,High,Medium,Medium,High
+Student_88_Jan-23,student88@jan-23.spjain.edu,MGB,Jan-23,Term 3,Placed,2.6,Low,None,None,Low,None
+Student_89_Jan-23,student89@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,3.01,Low,Low,None,Medium,None
+Student_90_Jan-23,student90@jan-23.spjain.edu,MGB,Jan-23,Term 4,Placed,3.3,Medium,None,Low,None,High
+Student_91_Jan-23,student91@jan-23.spjain.edu,MGB,Jan-23,Term 1,Not Placed,3.34,Low,High,Medium,Low,Low
+Student_92_Jan-23,student92@jan-23.spjain.edu,MGB,Jan-23,Term 3,Not Placed,3.18,None,High,Medium,Medium,Low
+Student_93_Jan-23,student93@jan-23.spjain.edu,MGB,Jan-23,Term 4,Not Placed,3.99,High,Low,None,Medium,None
+Student_1_May-23,student1@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.41,High,High,None,Medium,Medium
+Student_2_May-23,student2@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,2.77,Medium,None,None,Low,Medium
+Student_3_May-23,student3@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,2.98,Low,High,Low,None,Medium
+Student_4_May-23,student4@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.64,Low,None,Medium,Medium,None
+Student_5_May-23,student5@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.3,Low,None,Medium,High,None
+Student_6_May-23,student6@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.12,High,Medium,Medium,High,None
+Student_7_May-23,student7@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.41,Medium,None,High,Low,High
+Student_8_May-23,student8@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.78,Medium,None,Low,Medium,Medium
+Student_9_May-23,student9@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.98,Low,High,High,Medium,None
+Student_10_May-23,student10@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.53,None,Medium,Medium,None,High
+Student_11_May-23,student11@may-23.spjain.edu,MGB,May-23,Term 3,Placed,2.87,High,High,High,None,None
+Student_12_May-23,student12@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.67,Low,High,High,None,None
+Student_13_May-23,student13@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.72,High,Low,None,None,None
+Student_14_May-23,student14@may-23.spjain.edu,MGB,May-23,Term 1,Placed,2.72,Low,High,Medium,Low,None
+Student_15_May-23,student15@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.87,None,Medium,Low,High,Low
+Student_16_May-23,student16@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.85,None,Medium,Low,Low,Low
+Student_17_May-23,student17@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.68,Low,Low,High,Medium,Medium
+Student_18_May-23,student18@may-23.spjain.edu,MGB,May-23,Term 3,Placed,2.83,Low,Low,Low,Low,Medium
+Student_19_May-23,student19@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.57,Low,Medium,Medium,Medium,Low
+Student_20_May-23,student20@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.46,High,Medium,Low,Medium,High
+Student_21_May-23,student21@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.58,None,None,Medium,Low,Medium
+Student_22_May-23,student22@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.07,None,Medium,None,Medium,None
+Student_23_May-23,student23@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.5,High,Low,Medium,Low,Medium
+Student_24_May-23,student24@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.92,High,Medium,Low,None,None
+Student_25_May-23,student25@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.61,Low,High,None,High,Low
+Student_26_May-23,student26@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.33,High,High,None,Medium,Medium
+Student_27_May-23,student27@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.53,Medium,Medium,None,Medium,High
+Student_28_May-23,student28@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,2.64,Medium,High,Medium,Low,High
+Student_29_May-23,student29@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.87,None,None,High,High,Low
+Student_30_May-23,student30@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.22,None,High,None,Medium,High
+Student_31_May-23,student31@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,2.95,High,None,High,None,Medium
+Student_32_May-23,student32@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.88,None,Low,None,Medium,Low
+Student_33_May-23,student33@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.93,Low,Low,Medium,Low,Low
+Student_34_May-23,student34@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,2.67,Medium,None,High,Low,None
+Student_35_May-23,student35@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.77,None,Low,High,None,Low
+Student_36_May-23,student36@may-23.spjain.edu,MGB,May-23,Term 2,Placed,3.67,Medium,Medium,Low,Low,Low
+Student_37_May-23,student37@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.53,Medium,Medium,Low,Medium,Medium
+Student_38_May-23,student38@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.78,Medium,Low,None,None,Low
+Student_39_May-23,student39@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.21,Low,Low,Medium,Low,Low
+Student_40_May-23,student40@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.17,None,None,None,High,None
+Student_41_May-23,student41@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.03,Medium,None,Low,High,Medium
+Student_42_May-23,student42@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,2.94,Low,High,Low,None,None
+Student_43_May-23,student43@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.7,None,Low,High,High,Medium
+Student_44_May-23,student44@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.58,None,High,None,None,Medium
+Student_45_May-23,student45@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,2.59,High,Low,Low,Low,None
+Student_46_May-23,student46@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.21,High,Low,None,Medium,Medium
+Student_47_May-23,student47@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.34,None,Medium,Low,Low,Low
+Student_48_May-23,student48@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.66,High,Low,Low,None,Medium
+Student_49_May-23,student49@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.2,None,Low,Low,Medium,Low
+Student_50_May-23,student50@may-23.spjain.edu,MGB,May-23,Term 3,Placed,2.71,None,None,None,None,High
+Student_51_May-23,student51@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,2.52,None,High,Low,None,Low
+Student_52_May-23,student52@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.6,High,High,Medium,High,None
+Student_53_May-23,student53@may-23.spjain.edu,MGB,May-23,Term 2,Placed,3.65,None,Low,None,None,Medium
+Student_54_May-23,student54@may-23.spjain.edu,MGB,May-23,Term 3,Placed,2.77,Low,None,None,High,None
+Student_55_May-23,student55@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.44,None,High,High,Medium,Low
+Student_56_May-23,student56@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.89,Medium,Low,None,Medium,Low
+Student_57_May-23,student57@may-23.spjain.edu,MGB,May-23,Term 2,Placed,3.66,Medium,Low,Medium,High,High
+Student_58_May-23,student58@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.31,High,Low,Low,Medium,Medium
+Student_59_May-23,student59@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,2.74,Low,Medium,Medium,Low,High
+Student_60_May-23,student60@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,2.68,None,High,None,Medium,None
+Student_61_May-23,student61@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.16,Medium,Medium,None,High,High
+Student_62_May-23,student62@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.74,Medium,High,None,Low,Low
+Student_63_May-23,student63@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.82,High,Low,None,Low,High
+Student_64_May-23,student64@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.51,None,None,High,Low,Low
+Student_65_May-23,student65@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.15,Low,Medium,High,None,None
+Student_66_May-23,student66@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.59,Low,High,Medium,Medium,Medium
+Student_67_May-23,student67@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.28,Medium,None,High,High,Medium
+Student_68_May-23,student68@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.43,Medium,None,Medium,Medium,Medium
+Student_69_May-23,student69@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.82,High,Medium,High,None,Medium
+Student_70_May-23,student70@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.44,Low,Low,High,High,Low
+Student_71_May-23,student71@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,2.55,Medium,None,High,None,Medium
+Student_72_May-23,student72@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.52,Medium,High,None,High,High
+Student_73_May-23,student73@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.98,None,Medium,High,Low,None
+Student_74_May-23,student74@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,2.69,Low,High,None,None,Medium
+Student_75_May-23,student75@may-23.spjain.edu,MGB,May-23,Term 2,Placed,3.27,Medium,Medium,High,High,None
+Student_76_May-23,student76@may-23.spjain.edu,MGB,May-23,Term 3,Placed,2.87,Low,Medium,Low,Low,None
+Student_77_May-23,student77@may-23.spjain.edu,MGB,May-23,Term 3,Placed,2.99,Low,Medium,High,None,High
+Student_78_May-23,student78@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.52,High,Medium,Medium,None,Low
+Student_79_May-23,student79@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.23,Low,Medium,None,None,Medium
+Student_80_May-23,student80@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.32,High,Low,Low,Low,Medium
+Student_81_May-23,student81@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.71,None,None,High,Low,Low
+Student_82_May-23,student82@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.14,High,Medium,High,Medium,None
+Student_83_May-23,student83@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.33,Low,Medium,Low,Low,None
+Student_84_May-23,student84@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.95,Medium,None,Medium,Medium,Medium
+Student_85_May-23,student85@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.6,Low,Medium,High,Low,Medium
+Student_86_May-23,student86@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,2.74,Medium,Medium,Medium,None,Medium
+Student_87_May-23,student87@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.94,None,Low,None,None,None
+Student_88_May-23,student88@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,2.7,Low,High,High,Low,Low
+Student_89_May-23,student89@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.59,None,Medium,Medium,None,Medium
+Student_90_May-23,student90@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.68,None,None,Medium,Medium,Low
+Student_91_May-23,student91@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.95,Low,Medium,None,High,Medium
+Student_92_May-23,student92@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,2.71,Low,Low,High,High,Low
+Student_93_May-23,student93@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,2.85,None,Low,High,None,Medium
+Student_94_May-23,student94@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.81,High,None,Low,High,None
+Student_95_May-23,student95@may-23.spjain.edu,MGB,May-23,Term 4,Placed,3.81,None,Low,Medium,High,High
+Student_96_May-23,student96@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.8,None,None,None,High,High
+Student_97_May-23,student97@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.86,Low,None,Low,Low,High
+Student_98_May-23,student98@may-23.spjain.edu,MGB,May-23,Term 1,Placed,3.57,None,Medium,None,Medium,None
+Student_99_May-23,student99@may-23.spjain.edu,MGB,May-23,Term 3,Placed,4.0,None,None,None,High,High
+Student_100_May-23,student100@may-23.spjain.edu,MGB,May-23,Term 1,Placed,2.68,Medium,Low,None,None,High
+Student_101_May-23,student101@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,3.78,High,None,None,High,Medium
+Student_102_May-23,student102@may-23.spjain.edu,MGB,May-23,Term 2,Placed,3.45,Low,High,Low,None,High
+Student_103_May-23,student103@may-23.spjain.edu,MGB,May-23,Term 4,Not Placed,3.04,Low,Low,Medium,Low,None
+Student_104_May-23,student104@may-23.spjain.edu,MGB,May-23,Term 1,Not Placed,3.19,Low,Medium,Medium,Low,None
+Student_105_May-23,student105@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.77,High,Low,Low,Medium,Low
+Student_106_May-23,student106@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.87,High,None,Low,None,Medium
+Student_107_May-23,student107@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.9,None,Low,Low,None,Low
+Student_108_May-23,student108@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.98,High,Medium,Low,Low,Medium
+Student_109_May-23,student109@may-23.spjain.edu,MGB,May-23,Term 4,Placed,2.8,High,None,Low,Medium,Low
+Student_110_May-23,student110@may-23.spjain.edu,MGB,May-23,Term 3,Not Placed,2.7,None,High,Low,High,Low
+Student_111_May-23,student111@may-23.spjain.edu,MGB,May-23,Term 2,Not Placed,3.74,Medium,Medium,Low,High,None
+Student_112_May-23,student112@may-23.spjain.edu,MGB,May-23,Term 2,Placed,2.87,Medium,None,Medium,Medium,High
+Student_113_May-23,student113@may-23.spjain.edu,MGB,May-23,Term 3,Placed,3.95,None,None,None,Medium,None
+Student_1_Sep-23,student1@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.62,Low,Low,None,Low,Low
+Student_2_Sep-23,student2@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,3.31,High,Medium,Low,Medium,Medium
+Student_3_Sep-23,student3@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.3,High,Medium,Low,Medium,None
+Student_4_Sep-23,student4@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.19,None,None,None,High,Medium
+Student_5_Sep-23,student5@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.34,High,Low,None,Medium,High
+Student_6_Sep-23,student6@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.93,Low,Low,High,None,None
+Student_7_Sep-23,student7@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.82,None,Low,Low,Low,Medium
+Student_8_Sep-23,student8@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,3.65,Low,High,High,Low,High
+Student_9_Sep-23,student9@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.29,Medium,Medium,Medium,Medium,Medium
+Student_10_Sep-23,student10@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.59,Low,High,High,None,None
+Student_11_Sep-23,student11@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.54,Medium,Low,Medium,High,Low
+Student_12_Sep-23,student12@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.56,Low,None,High,Medium,Low
+Student_13_Sep-23,student13@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,2.84,High,Low,None,High,Low
+Student_14_Sep-23,student14@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.97,High,Low,High,Medium,High
+Student_15_Sep-23,student15@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,2.99,Low,High,Low,High,Medium
+Student_16_Sep-23,student16@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.77,Medium,Low,High,Medium,Low
+Student_17_Sep-23,student17@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,3.56,Medium,Medium,None,High,High
+Student_18_Sep-23,student18@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.9,High,Low,Medium,Medium,High
+Student_19_Sep-23,student19@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,3.41,Low,None,None,None,High
+Student_20_Sep-23,student20@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,2.87,Medium,Medium,None,Medium,None
+Student_21_Sep-23,student21@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,2.59,None,High,High,Low,None
+Student_22_Sep-23,student22@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.98,None,Medium,Low,None,None
+Student_23_Sep-23,student23@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,2.62,High,None,High,Low,None
+Student_24_Sep-23,student24@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.25,Low,High,High,Medium,High
+Student_25_Sep-23,student25@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.46,High,High,High,Low,None
+Student_26_Sep-23,student26@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,3.95,High,None,Medium,Low,High
+Student_27_Sep-23,student27@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.19,Medium,Medium,Low,High,Medium
+Student_28_Sep-23,student28@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,3.36,High,High,None,Medium,High
+Student_29_Sep-23,student29@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.86,Low,Medium,None,Medium,Low
+Student_30_Sep-23,student30@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,2.73,Medium,Low,None,Low,Medium
+Student_31_Sep-23,student31@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,3.54,None,None,None,Low,Medium
+Student_32_Sep-23,student32@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.4,None,High,None,Medium,Medium
+Student_33_Sep-23,student33@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,2.67,None,High,Medium,Low,Medium
+Student_34_Sep-23,student34@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,2.93,Low,Low,Low,High,High
+Student_35_Sep-23,student35@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,3.93,None,Medium,Medium,High,None
+Student_36_Sep-23,student36@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,2.67,High,None,Medium,High,High
+Student_37_Sep-23,student37@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,3.42,None,Medium,None,High,Medium
+Student_38_Sep-23,student38@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.57,High,Medium,Low,Low,Medium
+Student_39_Sep-23,student39@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,2.8,High,None,None,Medium,Low
+Student_40_Sep-23,student40@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,2.78,Medium,Low,None,High,None
+Student_41_Sep-23,student41@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.4,Low,Medium,Medium,Low,High
+Student_42_Sep-23,student42@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.11,High,Medium,Low,Low,High
+Student_43_Sep-23,student43@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.53,High,None,High,High,None
+Student_44_Sep-23,student44@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.64,High,High,High,None,None
+Student_45_Sep-23,student45@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,3.17,Medium,None,Low,Low,None
+Student_46_Sep-23,student46@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,3.18,Low,Medium,Medium,Low,Medium
+Student_47_Sep-23,student47@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.82,Low,High,None,Low,Medium
+Student_48_Sep-23,student48@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.12,Medium,None,Medium,Low,Medium
+Student_49_Sep-23,student49@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.83,None,None,None,None,None
+Student_50_Sep-23,student50@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,2.99,None,Medium,Medium,Medium,Medium
+Student_51_Sep-23,student51@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.92,Low,None,None,Low,Low
+Student_52_Sep-23,student52@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.71,High,None,Low,None,High
+Student_53_Sep-23,student53@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.01,Medium,None,None,Medium,None
+Student_54_Sep-23,student54@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.08,Medium,Low,Medium,None,Medium
+Student_55_Sep-23,student55@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.97,Medium,Medium,None,Low,High
+Student_56_Sep-23,student56@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,2.63,High,High,Low,High,Low
+Student_57_Sep-23,student57@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.62,Medium,Low,High,Low,Low
+Student_58_Sep-23,student58@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.01,Medium,Low,Low,High,Medium
+Student_59_Sep-23,student59@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.12,None,Medium,None,Low,Medium
+Student_60_Sep-23,student60@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.86,High,High,Medium,None,None
+Student_61_Sep-23,student61@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,2.76,High,Low,None,Medium,None
+Student_62_Sep-23,student62@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.92,Low,Low,High,Low,High
+Student_63_Sep-23,student63@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.44,None,Medium,High,Medium,Low
+Student_64_Sep-23,student64@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.03,None,High,None,Medium,Low
+Student_65_Sep-23,student65@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.27,High,None,Low,Medium,High
+Student_66_Sep-23,student66@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,2.89,None,Low,High,Low,None
+Student_67_Sep-23,student67@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.33,Medium,High,High,Low,None
+Student_68_Sep-23,student68@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,3.07,High,Low,None,Low,Low
+Student_69_Sep-23,student69@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.56,Medium,Low,Low,Medium,None
+Student_70_Sep-23,student70@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,2.62,None,High,Low,High,High
+Student_71_Sep-23,student71@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,2.86,Medium,Low,High,Medium,Medium
+Student_72_Sep-23,student72@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,2.51,High,Low,High,Medium,None
+Student_73_Sep-23,student73@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.42,High,Medium,Medium,High,Medium
+Student_74_Sep-23,student74@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,2.51,Medium,Medium,High,High,None
+Student_75_Sep-23,student75@sep-23.spjain.edu,MGB,Sep-23,Term 3,Placed,3.21,Medium,None,Medium,None,Low
+Student_76_Sep-23,student76@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,2.78,High,High,Medium,Medium,Low
+Student_77_Sep-23,student77@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.55,High,Medium,Medium,Low,Medium
+Student_78_Sep-23,student78@sep-23.spjain.edu,MGB,Sep-23,Term 2,Not Placed,3.45,Low,None,Low,Medium,None
+Student_79_Sep-23,student79@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,3.6,High,Low,Low,Medium,High
+Student_80_Sep-23,student80@sep-23.spjain.edu,MGB,Sep-23,Term 1,Placed,3.24,High,None,High,None,High
+Student_81_Sep-23,student81@sep-23.spjain.edu,MGB,Sep-23,Term 1,Not Placed,3.38,Low,High,Low,Low,None
+Student_82_Sep-23,student82@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,3.06,Low,None,Low,Medium,Medium
+Student_83_Sep-23,student83@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.54,None,None,None,Low,None
+Student_84_Sep-23,student84@sep-23.spjain.edu,MGB,Sep-23,Term 4,Not Placed,3.18,Medium,None,None,High,Medium
+Student_85_Sep-23,student85@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,3.98,Medium,None,Low,High,None
+Student_86_Sep-23,student86@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.39,Medium,Medium,High,High,None
+Student_87_Sep-23,student87@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,2.91,Medium,High,None,None,Medium
+Student_88_Sep-23,student88@sep-23.spjain.edu,MGB,Sep-23,Term 3,Not Placed,2.84,None,None,None,None,Medium
+Student_89_Sep-23,student89@sep-23.spjain.edu,MGB,Sep-23,Term 4,Placed,3.03,High,High,Low,None,Low
+Student_90_Sep-23,student90@sep-23.spjain.edu,MGB,Sep-23,Term 2,Placed,3.28,None,Medium,None,None,High
+Student_1_Jan-23,student1@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.45,None,High,Medium,Low,Low
+Student_2_Jan-23,student2@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.05,None,High,High,None,Low
+Student_3_Jan-23,student3@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,2.81,Low,Medium,Low,None,Low
+Student_4_Jan-23,student4@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.55,Medium,Low,Medium,Medium,Medium
+Student_5_Jan-23,student5@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.84,Low,High,None,Medium,Low
+Student_6_Jan-23,student6@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.19,Low,High,None,None,Medium
+Student_7_Jan-23,student7@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.05,High,None,Medium,Medium,High
+Student_8_Jan-23,student8@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.74,None,Medium,Low,Low,None
+Student_9_Jan-23,student9@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.74,Medium,High,Low,High,Medium
+Student_10_Jan-23,student10@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.69,None,High,Low,Low,Medium
+Student_11_Jan-23,student11@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,2.54,None,High,Low,None,Medium
+Student_12_Jan-23,student12@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.33,None,Low,High,Low,None
+Student_13_Jan-23,student13@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.56,None,Low,Medium,Medium,Low
+Student_14_Jan-23,student14@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,2.58,Low,None,Low,Medium,Low
+Student_15_Jan-23,student15@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.44,Low,None,Medium,Low,High
+Student_16_Jan-23,student16@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.35,High,High,Medium,None,High
+Student_17_Jan-23,student17@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,2.73,Medium,Medium,High,Low,Low
+Student_18_Jan-23,student18@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.12,High,None,None,High,None
+Student_19_Jan-23,student19@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.32,High,Medium,None,Medium,High
+Student_20_Jan-23,student20@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,2.86,High,High,Medium,None,High
+Student_21_Jan-23,student21@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,3.64,Medium,Medium,Low,Low,None
+Student_22_Jan-23,student22@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.27,Low,None,High,None,High
+Student_23_Jan-23,student23@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,3.38,Medium,Medium,None,High,Low
+Student_24_Jan-23,student24@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.26,Medium,None,Medium,Medium,High
+Student_25_Jan-23,student25@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.33,None,Medium,Medium,Low,Low
+Student_26_Jan-23,student26@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.85,None,High,Low,None,High
+Student_27_Jan-23,student27@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,2.81,High,High,None,High,Medium
+Student_28_Jan-23,student28@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.75,Medium,Low,Low,None,High
+Student_29_Jan-23,student29@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,2.83,High,Low,High,Medium,Medium
+Student_30_Jan-23,student30@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.25,None,Low,None,None,Medium
+Student_31_Jan-23,student31@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.34,Low,Medium,High,High,High
+Student_32_Jan-23,student32@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,3.79,Low,High,Low,None,None
+Student_33_Jan-23,student33@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,2.58,Medium,Medium,None,Low,High
+Student_34_Jan-23,student34@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.48,Low,High,High,Low,Medium
+Student_35_Jan-23,student35@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.9,Medium,High,High,None,Medium
+Student_36_Jan-23,student36@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,2.63,Medium,None,Low,Low,High
+Student_37_Jan-23,student37@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.6,Medium,Medium,High,None,None
+Student_38_Jan-23,student38@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,3.25,None,None,Medium,High,High
+Student_39_Jan-23,student39@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.56,None,Medium,Low,High,Low
+Student_40_Jan-23,student40@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.53,High,High,None,None,Medium
+Student_41_Jan-23,student41@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.05,Low,None,None,Medium,Low
+Student_42_Jan-23,student42@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,2.98,Low,None,Medium,None,Low
+Student_43_Jan-23,student43@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.65,Medium,None,None,Low,None
+Student_44_Jan-23,student44@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.83,Low,Low,None,None,Medium
+Student_45_Jan-23,student45@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.26,Medium,Low,Medium,Medium,Medium
+Student_46_Jan-23,student46@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.74,High,High,High,High,Low
+Student_47_Jan-23,student47@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.53,Low,None,High,Low,Low
+Student_48_Jan-23,student48@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,2.83,Low,None,High,Medium,None
+Student_49_Jan-23,student49@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.57,High,None,Medium,High,Low
+Student_50_Jan-23,student50@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,2.95,Medium,High,Medium,High,High
+Student_51_Jan-23,student51@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,2.68,Medium,High,High,Low,None
+Student_52_Jan-23,student52@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.92,None,High,Low,Low,None
+Student_53_Jan-23,student53@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,2.96,None,High,None,High,None
+Student_54_Jan-23,student54@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,2.55,None,None,High,None,Low
+Student_55_Jan-23,student55@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.07,None,High,None,Low,High
+Student_56_Jan-23,student56@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,3.59,High,None,None,Low,Medium
+Student_57_Jan-23,student57@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,2.98,None,Medium,None,High,High
+Student_58_Jan-23,student58@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.9,None,High,Medium,None,Low
+Student_59_Jan-23,student59@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,2.88,High,None,Medium,None,Low
+Student_60_Jan-23,student60@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,2.94,Low,None,High,Medium,High
+Student_61_Jan-23,student61@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.23,High,None,Medium,None,High
+Student_62_Jan-23,student62@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,2.84,None,Medium,None,High,High
+Student_63_Jan-23,student63@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,2.7,High,None,None,Low,None
+Student_64_Jan-23,student64@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.45,High,None,None,High,Low
+Student_65_Jan-23,student65@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,2.6,High,Low,Low,None,None
+Student_66_Jan-23,student66@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,2.68,Medium,High,Medium,Medium,None
+Student_67_Jan-23,student67@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.22,Medium,None,High,High,Medium
+Student_68_Jan-23,student68@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,2.95,None,High,Low,High,High
+Student_69_Jan-23,student69@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.38,High,Low,Medium,Low,Medium
+Student_70_Jan-23,student70@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,2.78,None,None,None,Medium,High
+Student_71_Jan-23,student71@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.33,High,Medium,Medium,Medium,High
+Student_72_Jan-23,student72@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.35,Medium,None,Low,Medium,Low
+Student_73_Jan-23,student73@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.63,High,Low,None,High,Medium
+Student_74_Jan-23,student74@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.17,Medium,Medium,None,None,Medium
+Student_75_Jan-23,student75@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.25,High,None,High,None,High
+Student_76_Jan-23,student76@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Placed,3.66,High,Low,Low,None,Low
+Student_77_Jan-23,student77@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,2.96,Low,Low,None,None,None
+Student_78_Jan-23,student78@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.01,None,Low,High,Low,Low
+Student_79_Jan-23,student79@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.39,Medium,Low,Low,Medium,Medium
+Student_80_Jan-23,student80@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,2.79,Low,None,Low,Low,None
+Student_81_Jan-23,student81@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.7,Low,Medium,Low,Low,Medium
+Student_82_Jan-23,student82@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,2.68,Low,Medium,Medium,Low,Medium
+Student_83_Jan-23,student83@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,2.87,None,Low,None,Low,Medium
+Student_84_Jan-23,student84@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,2.88,None,None,High,High,Medium
+Student_85_Jan-23,student85@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,3.18,Low,None,Medium,Low,High
+Student_86_Jan-23,student86@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.39,None,None,None,Low,High
+Student_87_Jan-23,student87@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,2.68,High,High,High,Low,High
+Student_88_Jan-23,student88@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Placed,3.68,None,Medium,High,High,High
+Student_89_Jan-23,student89@jan-23.spjain.edu,GMBA,Jan-23,Term 1,Not Placed,3.97,Low,Low,None,Medium,Medium
+Student_90_Jan-23,student90@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.89,Low,Medium,Medium,High,Low
+Student_91_Jan-23,student91@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.71,None,Medium,High,Medium,High
+Student_92_Jan-23,student92@jan-23.spjain.edu,GMBA,Jan-23,Term 3,Not Placed,2.69,Medium,None,Medium,Medium,None
+Student_93_Jan-23,student93@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Placed,3.88,Low,High,High,Medium,Low
+Student_94_Jan-23,student94@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.17,Medium,High,High,None,None
+Student_95_Jan-23,student95@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.61,None,None,High,Low,Medium
+Student_96_Jan-23,student96@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Not Placed,3.68,Low,Low,High,None,None
+Student_97_Jan-23,student97@jan-23.spjain.edu,GMBA,Jan-23,Term 4,Placed,3.06,High,None,Medium,None,Medium
+Student_98_Jan-23,student98@jan-23.spjain.edu,GMBA,Jan-23,Term 2,Not Placed,3.03,Low,Medium,Low,Medium,None
+Student_1_May-23,student1@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,3.53,Medium,High,None,High,None
+Student_2_May-23,student2@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.07,None,None,None,None,High
+Student_3_May-23,student3@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.02,Low,Low,Low,None,Medium
+Student_4_May-23,student4@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.78,Medium,High,None,Low,High
+Student_5_May-23,student5@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.56,Medium,High,High,Low,High
+Student_6_May-23,student6@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,2.72,Medium,None,Low,Medium,Medium
+Student_7_May-23,student7@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.75,High,Medium,High,High,Medium
+Student_8_May-23,student8@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.91,Medium,Medium,High,Medium,High
+Student_9_May-23,student9@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,2.9,Medium,High,None,Low,Medium
+Student_10_May-23,student10@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,2.87,High,Low,Medium,Low,High
+Student_11_May-23,student11@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.7,High,None,Medium,Medium,Medium
+Student_12_May-23,student12@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.19,None,Medium,High,Medium,Medium
+Student_13_May-23,student13@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.97,Medium,High,Low,None,None
+Student_14_May-23,student14@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.83,None,Low,None,Low,None
+Student_15_May-23,student15@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,2.69,High,Medium,High,Low,Low
+Student_16_May-23,student16@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.07,Low,Low,High,Low,None
+Student_17_May-23,student17@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,2.82,Medium,None,Medium,Low,None
+Student_18_May-23,student18@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,2.52,Medium,None,Low,None,None
+Student_19_May-23,student19@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.06,Medium,None,Medium,None,High
+Student_20_May-23,student20@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.85,High,Low,Low,High,Low
+Student_21_May-23,student21@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.83,None,High,Low,Low,None
+Student_22_May-23,student22@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.6,Low,Medium,Low,Medium,High
+Student_23_May-23,student23@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.62,Low,High,High,Medium,Low
+Student_24_May-23,student24@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.11,None,Low,Low,Low,Low
+Student_25_May-23,student25@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.83,None,None,High,High,Medium
+Student_26_May-23,student26@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.49,None,Low,Medium,Medium,Medium
+Student_27_May-23,student27@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.91,Medium,High,High,Low,High
+Student_28_May-23,student28@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.13,Medium,None,Medium,None,Low
+Student_29_May-23,student29@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.99,Medium,High,Low,None,High
+Student_30_May-23,student30@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.87,Medium,None,High,High,None
+Student_31_May-23,student31@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.78,Low,Low,Low,Medium,Low
+Student_32_May-23,student32@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.72,None,None,Low,Low,Low
+Student_33_May-23,student33@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.58,Low,Low,High,Medium,Medium
+Student_34_May-23,student34@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.2,Medium,High,Low,None,None
+Student_35_May-23,student35@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.95,Medium,Medium,None,High,Low
+Student_36_May-23,student36@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.11,None,Medium,None,None,High
+Student_37_May-23,student37@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,2.68,Medium,None,None,None,Medium
+Student_38_May-23,student38@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.77,Low,Medium,Medium,Low,Medium
+Student_39_May-23,student39@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.78,High,High,High,High,Medium
+Student_40_May-23,student40@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.84,Medium,High,High,None,Medium
+Student_41_May-23,student41@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,2.94,Low,Low,High,High,Medium
+Student_42_May-23,student42@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,2.65,High,High,High,Medium,Medium
+Student_43_May-23,student43@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.66,Low,High,Low,Medium,High
+Student_44_May-23,student44@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.74,High,None,Medium,Low,High
+Student_45_May-23,student45@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.5,None,None,Low,Low,Low
+Student_46_May-23,student46@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.71,Medium,Low,Low,Medium,Medium
+Student_47_May-23,student47@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,3.55,High,High,High,High,Medium
+Student_48_May-23,student48@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.69,High,Low,Low,Low,Medium
+Student_49_May-23,student49@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.11,Low,Medium,None,High,Low
+Student_50_May-23,student50@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,2.79,High,High,High,Low,None
+Student_51_May-23,student51@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.2,None,Low,None,Medium,Low
+Student_52_May-23,student52@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.94,Medium,High,Medium,Low,None
+Student_53_May-23,student53@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.81,Low,Medium,High,Medium,Medium
+Student_54_May-23,student54@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.86,Medium,None,High,High,Low
+Student_55_May-23,student55@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.01,High,None,Medium,Medium,Medium
+Student_56_May-23,student56@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.3,Medium,None,High,None,Low
+Student_57_May-23,student57@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,2.93,High,None,High,None,None
+Student_58_May-23,student58@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,3.88,Medium,None,Low,Low,High
+Student_59_May-23,student59@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.09,High,Medium,High,Medium,None
+Student_60_May-23,student60@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,2.5,High,High,Low,None,High
+Student_61_May-23,student61@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.24,Medium,Low,High,Medium,None
+Student_62_May-23,student62@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.32,Medium,High,None,High,Low
+Student_63_May-23,student63@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,2.53,Medium,Low,Medium,Low,Low
+Student_64_May-23,student64@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,3.86,Medium,Medium,Low,High,Low
+Student_65_May-23,student65@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,2.61,Medium,High,High,Medium,High
+Student_66_May-23,student66@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,2.67,None,Low,High,None,High
+Student_67_May-23,student67@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.68,Low,High,Low,Medium,None
+Student_68_May-23,student68@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.59,High,High,Medium,Medium,Low
+Student_69_May-23,student69@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.22,Low,High,Low,None,None
+Student_70_May-23,student70@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.82,Medium,None,High,Medium,None
+Student_71_May-23,student71@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.98,Low,Medium,High,High,None
+Student_72_May-23,student72@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.36,High,Low,Low,None,High
+Student_73_May-23,student73@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,2.63,High,High,Medium,None,None
+Student_74_May-23,student74@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.44,High,Low,Medium,Low,None
+Student_75_May-23,student75@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.79,High,Low,Medium,Low,None
+Student_76_May-23,student76@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.01,None,High,Low,High,None
+Student_77_May-23,student77@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.11,High,Low,Low,Medium,High
+Student_78_May-23,student78@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.04,High,Low,Low,Low,High
+Student_79_May-23,student79@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.37,High,Medium,High,Low,Low
+Student_80_May-23,student80@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.86,Low,High,None,High,Low
+Student_81_May-23,student81@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,3.49,Low,High,Medium,High,High
+Student_82_May-23,student82@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.84,High,None,Low,None,High
+Student_83_May-23,student83@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.39,Medium,High,Low,Medium,Medium
+Student_84_May-23,student84@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.21,Medium,Medium,Medium,None,High
+Student_85_May-23,student85@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.24,Medium,High,None,Medium,None
+Student_86_May-23,student86@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.02,None,None,Low,Low,Medium
+Student_87_May-23,student87@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.88,None,High,High,None,Medium
+Student_88_May-23,student88@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.36,High,Medium,Medium,High,Medium
+Student_89_May-23,student89@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.6,None,Medium,Medium,Low,High
+Student_90_May-23,student90@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.58,High,None,High,Low,Medium
+Student_91_May-23,student91@may-23.spjain.edu,GMBA,May-23,Term 4,Placed,2.72,High,Low,Low,None,None
+Student_92_May-23,student92@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.49,Medium,Medium,None,Low,Medium
+Student_93_May-23,student93@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.23,Low,None,High,Low,High
+Student_94_May-23,student94@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.74,High,None,Low,Medium,None
+Student_95_May-23,student95@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,2.71,Low,Medium,None,High,None
+Student_96_May-23,student96@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.02,Medium,None,Medium,Low,None
+Student_97_May-23,student97@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.74,Medium,None,Medium,High,Medium
+Student_98_May-23,student98@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.83,Medium,High,Low,Low,Low
+Student_99_May-23,student99@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.79,Low,None,High,High,High
+Student_100_May-23,student100@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,2.88,Medium,Medium,None,High,Medium
+Student_101_May-23,student101@may-23.spjain.edu,GMBA,May-23,Term 1,Not Placed,3.65,None,Low,High,None,Medium
+Student_102_May-23,student102@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.6,None,Low,Low,Medium,None
+Student_103_May-23,student103@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,3.07,Medium,Medium,Low,High,Low
+Student_104_May-23,student104@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.64,Low,None,Medium,None,High
+Student_105_May-23,student105@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.35,Medium,Medium,None,High,Medium
+Student_106_May-23,student106@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,3.3,High,High,None,Medium,Medium
+Student_107_May-23,student107@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.06,High,Low,High,None,High
+Student_108_May-23,student108@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.84,High,Low,Medium,High,High
+Student_109_May-23,student109@may-23.spjain.edu,GMBA,May-23,Term 3,Placed,2.57,Low,Medium,High,None,Medium
+Student_110_May-23,student110@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.65,Medium,Low,High,None,Low
+Student_111_May-23,student111@may-23.spjain.edu,GMBA,May-23,Term 3,Not Placed,3.33,Medium,High,High,High,Low
+Student_112_May-23,student112@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,3.73,Medium,High,Medium,Medium,Medium
+Student_113_May-23,student113@may-23.spjain.edu,GMBA,May-23,Term 2,Placed,2.94,High,None,Medium,Medium,High
+Student_114_May-23,student114@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,3.05,Low,None,Medium,High,Medium
+Student_115_May-23,student115@may-23.spjain.edu,GMBA,May-23,Term 4,Not Placed,2.51,Low,High,Medium,None,High
+Student_116_May-23,student116@may-23.spjain.edu,GMBA,May-23,Term 1,Placed,2.82,Medium,None,High,None,Medium
+Student_117_May-23,student117@may-23.spjain.edu,GMBA,May-23,Term 2,Not Placed,3.57,Low,None,Medium,Medium,None
+Student_1_Sep-23,student1@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,2.92,Low,Medium,High,Medium,None
+Student_2_Sep-23,student2@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.66,None,High,High,Medium,High
+Student_3_Sep-23,student3@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.34,None,Medium,High,Medium,Medium
+Student_4_Sep-23,student4@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.86,High,Medium,High,Low,High
+Student_5_Sep-23,student5@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.0,Medium,Medium,High,None,None
+Student_6_Sep-23,student6@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.7,Medium,High,Medium,None,High
+Student_7_Sep-23,student7@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,3.61,Low,None,Medium,Low,Low
+Student_8_Sep-23,student8@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.65,High,High,High,High,Low
+Student_9_Sep-23,student9@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.62,Medium,None,High,None,Low
+Student_10_Sep-23,student10@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.58,Low,Low,None,High,Low
+Student_11_Sep-23,student11@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.74,Medium,None,Low,None,High
+Student_12_Sep-23,student12@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.74,Low,High,Low,None,None
+Student_13_Sep-23,student13@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.2,High,High,High,Low,Medium
+Student_14_Sep-23,student14@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.46,High,Low,Low,Medium,None
+Student_15_Sep-23,student15@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,2.85,Medium,Low,Medium,Low,Low
+Student_16_Sep-23,student16@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,2.97,Medium,None,High,High,None
+Student_17_Sep-23,student17@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,2.81,None,None,Low,High,Medium
+Student_18_Sep-23,student18@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.59,High,High,None,Low,High
+Student_19_Sep-23,student19@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.44,Low,Medium,None,None,Medium
+Student_20_Sep-23,student20@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.58,Medium,High,None,Low,Medium
+Student_21_Sep-23,student21@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.71,None,Low,Medium,Low,None
+Student_22_Sep-23,student22@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,2.53,None,Medium,Low,None,Medium
+Student_23_Sep-23,student23@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.94,Low,High,None,High,None
+Student_24_Sep-23,student24@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.74,Low,Low,High,Medium,None
+Student_25_Sep-23,student25@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.01,Medium,Low,Medium,High,High
+Student_26_Sep-23,student26@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,2.96,Low,Low,High,Medium,High
+Student_27_Sep-23,student27@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.33,Medium,Low,Low,Medium,None
+Student_28_Sep-23,student28@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,2.56,High,Low,Medium,Medium,Medium
+Student_29_Sep-23,student29@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,2.79,Low,Low,High,None,Medium
+Student_30_Sep-23,student30@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.64,None,None,High,High,Medium
+Student_31_Sep-23,student31@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.45,Medium,None,Medium,Medium,None
+Student_32_Sep-23,student32@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,2.56,None,High,High,High,None
+Student_33_Sep-23,student33@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.64,None,High,High,Medium,Medium
+Student_34_Sep-23,student34@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.38,Low,None,High,Medium,High
+Student_35_Sep-23,student35@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.0,None,Low,Low,High,None
+Student_36_Sep-23,student36@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.09,Low,Medium,High,High,Low
+Student_37_Sep-23,student37@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.81,Low,High,Low,Medium,Medium
+Student_38_Sep-23,student38@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.01,High,Medium,None,Medium,Medium
+Student_39_Sep-23,student39@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.41,Medium,High,Medium,None,Low
+Student_40_Sep-23,student40@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.13,High,Low,High,Low,Medium
+Student_41_Sep-23,student41@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,3.74,High,Low,Medium,None,None
+Student_42_Sep-23,student42@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.95,High,High,High,Medium,None
+Student_43_Sep-23,student43@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.92,High,Medium,Low,None,None
+Student_44_Sep-23,student44@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.08,None,High,Low,Medium,High
+Student_45_Sep-23,student45@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.88,Low,Low,High,None,Medium
+Student_46_Sep-23,student46@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,3.23,None,None,Medium,Medium,Low
+Student_47_Sep-23,student47@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,2.67,Low,High,None,Medium,Low
+Student_48_Sep-23,student48@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.22,Medium,None,High,Medium,Medium
+Student_49_Sep-23,student49@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,2.58,Low,None,High,High,Low
+Student_50_Sep-23,student50@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,2.93,Medium,High,None,Low,Medium
+Student_51_Sep-23,student51@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.65,None,Low,None,High,Low
+Student_52_Sep-23,student52@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.37,Medium,Medium,Low,High,Low
+Student_53_Sep-23,student53@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.35,Medium,Medium,Medium,High,Medium
+Student_54_Sep-23,student54@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.67,None,None,High,None,High
+Student_55_Sep-23,student55@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,3.1,High,None,None,High,None
+Student_56_Sep-23,student56@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.96,Medium,Medium,Low,Low,Medium
+Student_57_Sep-23,student57@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.75,Low,High,Low,None,High
+Student_58_Sep-23,student58@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.01,Medium,None,Low,Medium,None
+Student_59_Sep-23,student59@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.68,None,None,Low,None,High
+Student_60_Sep-23,student60@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.34,None,High,Medium,Medium,Low
+Student_61_Sep-23,student61@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,2.88,Medium,Low,None,Medium,Medium
+Student_62_Sep-23,student62@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.44,High,High,Medium,None,Medium
+Student_63_Sep-23,student63@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.5,None,None,None,High,High
+Student_64_Sep-23,student64@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.26,High,High,Medium,Low,High
+Student_65_Sep-23,student65@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.06,High,Low,High,Low,High
+Student_66_Sep-23,student66@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.18,Medium,Medium,None,None,Medium
+Student_67_Sep-23,student67@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,2.83,Low,Low,High,None,None
+Student_68_Sep-23,student68@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.09,High,None,Medium,None,None
+Student_69_Sep-23,student69@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.02,High,None,None,None,High
+Student_70_Sep-23,student70@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.65,Low,High,None,Low,High
+Student_71_Sep-23,student71@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,2.8,Medium,High,Medium,Low,Low
+Student_72_Sep-23,student72@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.02,None,High,None,High,None
+Student_73_Sep-23,student73@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.77,Medium,High,High,Medium,High
+Student_74_Sep-23,student74@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,2.83,None,Medium,Low,Medium,None
+Student_75_Sep-23,student75@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.06,Medium,Medium,None,High,Low
+Student_76_Sep-23,student76@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.39,Medium,Low,High,Medium,None
+Student_77_Sep-23,student77@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.96,High,None,Low,Low,High
+Student_78_Sep-23,student78@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,2.81,Low,High,None,None,High
+Student_79_Sep-23,student79@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.61,None,Medium,Medium,High,High
+Student_80_Sep-23,student80@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.82,Medium,High,Medium,Low,None
+Student_81_Sep-23,student81@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.6,None,None,Medium,None,Medium
+Student_82_Sep-23,student82@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.77,Medium,Low,None,High,Low
+Student_83_Sep-23,student83@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,3.94,High,None,None,None,High
+Student_84_Sep-23,student84@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.55,None,None,Medium,None,Medium
+Student_85_Sep-23,student85@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.65,None,Medium,High,Medium,Medium
+Student_86_Sep-23,student86@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Not Placed,2.99,Medium,High,None,Low,High
+Student_87_Sep-23,student87@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.91,Low,None,Medium,High,Medium
+Student_88_Sep-23,student88@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,2.99,None,None,High,Low,Medium
+Student_89_Sep-23,student89@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.68,High,Medium,Medium,High,Low
+Student_90_Sep-23,student90@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.49,None,Low,Low,Medium,Low
+Student_91_Sep-23,student91@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.47,Low,Low,None,None,High
+Student_92_Sep-23,student92@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,3.04,Medium,Medium,None,None,None
+Student_93_Sep-23,student93@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Placed,3.31,Medium,High,None,Low,None
+Student_94_Sep-23,student94@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.58,None,None,None,None,Medium
+Student_95_Sep-23,student95@sep-23.spjain.edu,GMBA,Sep-23,Term 4,Not Placed,3.58,Medium,Medium,Low,Medium,None
+Student_96_Sep-23,student96@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.52,High,None,Medium,Medium,Low
+Student_97_Sep-23,student97@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Not Placed,3.82,Low,None,None,Low,None
+Student_98_Sep-23,student98@sep-23.spjain.edu,GMBA,Sep-23,Term 1,Placed,3.51,Medium,Low,Medium,Low,Low
+Student_99_Sep-23,student99@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.77,None,None,None,Medium,Medium
+Student_100_Sep-23,student100@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.78,Medium,Medium,Low,None,Medium
+Student_101_Sep-23,student101@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.01,Medium,Low,High,Low,Medium
+Student_102_Sep-23,student102@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.77,Low,None,Medium,Medium,None
+Student_103_Sep-23,student103@sep-23.spjain.edu,GMBA,Sep-23,Term 2,Placed,3.01,Low,High,Medium,High,None
+Student_104_Sep-23,student104@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,2.54,None,Low,None,Low,High
+Student_105_Sep-23,student105@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Not Placed,3.66,Low,Low,Medium,High,Medium
+Student_106_Sep-23,student106@sep-23.spjain.edu,GMBA,Sep-23,Term 3,Placed,3.82,High,High,None,None,Medium
+Student_1_Jan-24,student1@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.37,Low,High,High,Low,Medium
+Student_2_Jan-24,student2@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,2.63,Low,None,High,Low,Low
+Student_3_Jan-24,student3@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,2.82,Medium,Low,Medium,None,None
+Student_4_Jan-24,student4@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.7,None,Low,High,High,Low
+Student_5_Jan-24,student5@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,2.93,High,High,Low,Medium,None
+Student_6_Jan-24,student6@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.54,None,High,Medium,None,High
+Student_7_Jan-24,student7@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,2.69,Low,None,Medium,Medium,Low
+Student_8_Jan-24,student8@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,2.59,Low,None,None,None,Low
+Student_9_Jan-24,student9@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,2.71,Low,Low,Low,Low,None
+Student_10_Jan-24,student10@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.68,Low,Medium,Medium,Low,High
+Student_11_Jan-24,student11@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.98,High,Medium,High,High,High
+Student_12_Jan-24,student12@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.06,Medium,Medium,High,Medium,Medium
+Student_13_Jan-24,student13@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.8,High,Medium,High,Low,Low
+Student_14_Jan-24,student14@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.28,None,Medium,High,Low,Low
+Student_15_Jan-24,student15@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.08,None,Medium,None,Medium,None
+Student_16_Jan-24,student16@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,3.58,Low,None,Medium,High,Medium
+Student_17_Jan-24,student17@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.88,Low,Medium,High,Medium,Medium
+Student_18_Jan-24,student18@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,2.79,High,Medium,Medium,Medium,High
+Student_19_Jan-24,student19@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,2.59,High,High,Medium,None,Low
+Student_20_Jan-24,student20@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,2.81,None,Low,High,Medium,None
+Student_21_Jan-24,student21@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.5,Medium,Medium,Low,None,None
+Student_22_Jan-24,student22@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.62,Low,Low,None,Medium,None
+Student_23_Jan-24,student23@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,2.99,High,None,None,Medium,High
+Student_24_Jan-24,student24@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.32,Medium,None,High,None,Medium
+Student_25_Jan-24,student25@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.53,Medium,None,Medium,Medium,High
+Student_26_Jan-24,student26@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,2.76,Medium,None,Medium,High,None
+Student_27_Jan-24,student27@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.46,Medium,Medium,Medium,Medium,Low
+Student_28_Jan-24,student28@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.68,Medium,Low,Low,Low,None
+Student_29_Jan-24,student29@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.59,None,None,Medium,Medium,None
+Student_30_Jan-24,student30@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.91,Low,Low,Low,None,High
+Student_31_Jan-24,student31@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.41,None,High,Medium,Medium,None
+Student_32_Jan-24,student32@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,2.58,Medium,None,None,High,Medium
+Student_33_Jan-24,student33@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,2.71,Medium,Medium,Medium,High,High
+Student_34_Jan-24,student34@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.1,High,Medium,Medium,High,High
+Student_35_Jan-24,student35@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.41,None,None,Low,Medium,Low
+Student_36_Jan-24,student36@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,2.86,None,High,High,Medium,High
+Student_37_Jan-24,student37@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,2.85,None,High,Low,High,None
+Student_38_Jan-24,student38@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.75,Medium,Medium,High,High,Medium
+Student_39_Jan-24,student39@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.5,High,Low,Medium,None,Low
+Student_40_Jan-24,student40@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,3.42,Medium,High,None,None,High
+Student_41_Jan-24,student41@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,2.64,High,Medium,None,High,Medium
+Student_42_Jan-24,student42@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,2.81,High,None,None,None,Medium
+Student_43_Jan-24,student43@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.41,High,High,High,None,None
+Student_44_Jan-24,student44@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.87,High,High,High,None,Medium
+Student_45_Jan-24,student45@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.9,Medium,Medium,High,Low,Medium
+Student_46_Jan-24,student46@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,3.01,High,Medium,None,Low,High
+Student_47_Jan-24,student47@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,2.76,High,Low,High,None,Medium
+Student_48_Jan-24,student48@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.36,Low,Medium,Medium,Low,None
+Student_49_Jan-24,student49@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,3.76,Medium,Low,Low,None,High
+Student_50_Jan-24,student50@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.57,Low,Medium,None,High,High
+Student_51_Jan-24,student51@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,2.68,Low,Medium,None,Low,Low
+Student_52_Jan-24,student52@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,2.96,Medium,Medium,High,Low,High
+Student_53_Jan-24,student53@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,2.71,None,High,None,High,Low
+Student_54_Jan-24,student54@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,2.85,None,Low,High,Medium,High
+Student_55_Jan-24,student55@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.15,High,None,Medium,Medium,Medium
+Student_56_Jan-24,student56@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.01,Low,Medium,High,Medium,Low
+Student_57_Jan-24,student57@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,2.59,High,Low,None,None,None
+Student_58_Jan-24,student58@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.84,Low,High,Low,None,Low
+Student_59_Jan-24,student59@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.14,Medium,Medium,Low,None,High
+Student_60_Jan-24,student60@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.19,High,High,High,High,High
+Student_61_Jan-24,student61@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,2.81,None,Medium,High,None,None
+Student_62_Jan-24,student62@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.23,None,High,High,High,Low
+Student_63_Jan-24,student63@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,2.72,High,High,Low,High,None
+Student_64_Jan-24,student64@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.26,None,None,High,Medium,High
+Student_65_Jan-24,student65@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.0,High,Low,Low,Low,None
+Student_66_Jan-24,student66@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.7,Medium,High,Medium,High,High
+Student_67_Jan-24,student67@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,3.02,Low,None,None,None,Low
+Student_68_Jan-24,student68@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,2.81,High,Low,Medium,Medium,None
+Student_69_Jan-24,student69@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,3.88,None,None,None,Medium,High
+Student_70_Jan-24,student70@jan-24.spjain.edu,MGB,Jan-24,Term 3,Placed,3.29,Medium,None,High,High,High
+Student_71_Jan-24,student71@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.12,High,Low,Low,High,High
+Student_72_Jan-24,student72@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.17,None,None,High,Low,High
+Student_73_Jan-24,student73@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.38,High,Low,High,Low,Medium
+Student_74_Jan-24,student74@jan-24.spjain.edu,MGB,Jan-24,Term 1,Not Placed,3.68,High,Low,High,Low,None
+Student_75_Jan-24,student75@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,3.46,High,Medium,None,None,High
+Student_76_Jan-24,student76@jan-24.spjain.edu,MGB,Jan-24,Term 4,Not Placed,3.4,Low,High,None,None,High
+Student_77_Jan-24,student77@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,3.23,High,None,None,Low,Medium
+Student_78_Jan-24,student78@jan-24.spjain.edu,MGB,Jan-24,Term 2,Placed,3.64,None,Medium,Medium,Low,High
+Student_79_Jan-24,student79@jan-24.spjain.edu,MGB,Jan-24,Term 4,Placed,2.6,Low,Medium,None,Medium,High
+Student_80_Jan-24,student80@jan-24.spjain.edu,MGB,Jan-24,Term 2,Not Placed,2.58,None,Medium,High,High,None
+Student_81_Jan-24,student81@jan-24.spjain.edu,MGB,Jan-24,Term 1,Placed,3.49,High,Low,High,High,Medium
+Student_82_Jan-24,student82@jan-24.spjain.edu,MGB,Jan-24,Term 3,Not Placed,3.85,High,High,None,High,Low
+Student_1_May-24,student1@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.96,None,Low,Low,Medium,Medium
+Student_2_May-24,student2@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.92,Low,Medium,None,Low,None
+Student_3_May-24,student3@may-24.spjain.edu,MGB,May-24,Term 1,Placed,2.59,High,Low,High,None,None
+Student_4_May-24,student4@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.5,Medium,Medium,None,High,Low
+Student_5_May-24,student5@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.65,High,Medium,None,Low,Medium
+Student_6_May-24,student6@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.2,None,None,High,Low,High
+Student_7_May-24,student7@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.57,Low,High,None,High,Low
+Student_8_May-24,student8@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.24,Medium,Medium,None,Low,Medium
+Student_9_May-24,student9@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.03,None,None,Medium,Low,High
+Student_10_May-24,student10@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.75,None,None,Medium,Low,None
+Student_11_May-24,student11@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.18,Low,Medium,High,None,High
+Student_12_May-24,student12@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,2.65,Medium,Medium,Low,Medium,None
+Student_13_May-24,student13@may-24.spjain.edu,MGB,May-24,Term 3,Placed,2.5,Medium,Low,None,Medium,High
+Student_14_May-24,student14@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.98,None,None,Medium,None,High
+Student_15_May-24,student15@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.43,High,High,Low,High,Medium
+Student_16_May-24,student16@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.04,Medium,Medium,None,High,Medium
+Student_17_May-24,student17@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.58,High,Low,Medium,Medium,High
+Student_18_May-24,student18@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.33,High,None,Low,High,Medium
+Student_19_May-24,student19@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.63,None,Medium,Low,High,High
+Student_20_May-24,student20@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.48,Medium,Low,Low,High,None
+Student_21_May-24,student21@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.21,None,High,Medium,Low,High
+Student_22_May-24,student22@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.19,Medium,High,Low,High,None
+Student_23_May-24,student23@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.28,High,Medium,Low,Medium,None
+Student_24_May-24,student24@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.32,Medium,None,None,Low,None
+Student_25_May-24,student25@may-24.spjain.edu,MGB,May-24,Term 3,Placed,2.99,Low,Low,High,High,High
+Student_26_May-24,student26@may-24.spjain.edu,MGB,May-24,Term 2,Placed,2.59,None,Low,Medium,None,High
+Student_27_May-24,student27@may-24.spjain.edu,MGB,May-24,Term 3,Placed,2.61,High,None,High,Medium,None
+Student_28_May-24,student28@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,2.97,None,Medium,High,Low,Low
+Student_29_May-24,student29@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.07,High,High,High,Low,Medium
+Student_30_May-24,student30@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,2.77,Low,None,None,Low,None
+Student_31_May-24,student31@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.12,Low,None,Low,Medium,High
+Student_32_May-24,student32@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.14,Low,None,None,Low,High
+Student_33_May-24,student33@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.65,Medium,Medium,High,None,Medium
+Student_34_May-24,student34@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,2.89,None,None,Medium,Medium,None
+Student_35_May-24,student35@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,2.58,None,Low,Low,Medium,High
+Student_36_May-24,student36@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,2.74,Medium,High,Medium,Medium,Low
+Student_37_May-24,student37@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.14,None,None,Low,None,Medium
+Student_38_May-24,student38@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.09,High,High,Medium,Low,High
+Student_39_May-24,student39@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.87,Low,None,High,High,High
+Student_40_May-24,student40@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.38,None,None,None,Medium,Medium
+Student_41_May-24,student41@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.37,Low,None,High,Low,None
+Student_42_May-24,student42@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.69,Medium,None,High,Medium,High
+Student_43_May-24,student43@may-24.spjain.edu,MGB,May-24,Term 2,Placed,2.81,Low,Medium,None,Low,Medium
+Student_44_May-24,student44@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.54,None,High,None,Low,Medium
+Student_45_May-24,student45@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.92,Medium,Low,Medium,High,Medium
+Student_46_May-24,student46@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.04,Low,High,High,None,Low
+Student_47_May-24,student47@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,2.93,None,Low,Medium,Medium,High
+Student_48_May-24,student48@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.92,Medium,None,Low,None,High
+Student_49_May-24,student49@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.85,None,Medium,Medium,Low,Medium
+Student_50_May-24,student50@may-24.spjain.edu,MGB,May-24,Term 4,Placed,2.55,None,Medium,High,None,Low
+Student_51_May-24,student51@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.7,High,None,Medium,High,Low
+Student_52_May-24,student52@may-24.spjain.edu,MGB,May-24,Term 3,Placed,2.55,Medium,Low,Medium,Low,Medium
+Student_53_May-24,student53@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.82,High,High,High,High,None
+Student_54_May-24,student54@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.26,High,None,Low,Medium,Low
+Student_55_May-24,student55@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.88,Low,Low,Low,None,High
+Student_56_May-24,student56@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.53,None,Medium,None,High,High
+Student_57_May-24,student57@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.47,High,Medium,None,Low,None
+Student_58_May-24,student58@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.83,High,Low,Low,None,Medium
+Student_59_May-24,student59@may-24.spjain.edu,MGB,May-24,Term 4,Placed,2.91,None,Medium,Low,None,Medium
+Student_60_May-24,student60@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.79,None,Low,Medium,Low,Medium
+Student_61_May-24,student61@may-24.spjain.edu,MGB,May-24,Term 2,Placed,3.39,Medium,Medium,Medium,High,Medium
+Student_62_May-24,student62@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,2.55,Medium,Medium,Medium,High,Medium
+Student_63_May-24,student63@may-24.spjain.edu,MGB,May-24,Term 2,Placed,2.68,High,High,Medium,Medium,Medium
+Student_64_May-24,student64@may-24.spjain.edu,MGB,May-24,Term 1,Placed,2.59,None,None,None,None,High
+Student_65_May-24,student65@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.26,None,None,High,High,High
+Student_66_May-24,student66@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.06,High,Low,High,Medium,Low
+Student_67_May-24,student67@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.46,High,High,None,Low,None
+Student_68_May-24,student68@may-24.spjain.edu,MGB,May-24,Term 2,Placed,2.97,None,Low,High,High,High
+Student_69_May-24,student69@may-24.spjain.edu,MGB,May-24,Term 2,Placed,3.19,None,Medium,High,Low,Low
+Student_70_May-24,student70@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.16,High,Low,High,High,None
+Student_71_May-24,student71@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.13,High,High,High,None,Low
+Student_72_May-24,student72@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.56,Medium,Low,High,None,Low
+Student_73_May-24,student73@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.42,Low,None,High,High,Low
+Student_74_May-24,student74@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.13,Medium,Low,Medium,None,None
+Student_75_May-24,student75@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.41,High,Medium,None,High,None
+Student_76_May-24,student76@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.05,Low,None,Medium,Low,None
+Student_77_May-24,student77@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.85,High,Medium,Medium,High,High
+Student_78_May-24,student78@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.82,Low,None,Medium,None,High
+Student_79_May-24,student79@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.33,High,Low,Medium,High,None
+Student_80_May-24,student80@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.27,High,None,None,None,Low
+Student_81_May-24,student81@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.23,None,Medium,High,High,Medium
+Student_82_May-24,student82@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.41,None,Medium,None,Low,Medium
+Student_83_May-24,student83@may-24.spjain.edu,MGB,May-24,Term 2,Placed,3.4,None,Low,High,None,High
+Student_84_May-24,student84@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,2.9,Medium,High,Low,Low,Low
+Student_85_May-24,student85@may-24.spjain.edu,MGB,May-24,Term 4,Placed,2.98,Medium,High,Medium,Medium,Low
+Student_86_May-24,student86@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.57,High,High,High,None,Medium
+Student_87_May-24,student87@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,2.91,High,None,Medium,Medium,Medium
+Student_88_May-24,student88@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.99,Medium,Low,Low,High,High
+Student_89_May-24,student89@may-24.spjain.edu,MGB,May-24,Term 1,Not Placed,3.28,Medium,Medium,Low,None,Medium
+Student_90_May-24,student90@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.99,High,None,Low,High,None
+Student_91_May-24,student91@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.68,High,High,High,Low,High
+Student_92_May-24,student92@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.83,High,High,Low,Medium,None
+Student_93_May-24,student93@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.62,Medium,None,High,Medium,Medium
+Student_94_May-24,student94@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.19,None,Low,High,High,None
+Student_95_May-24,student95@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.82,Low,Low,Low,Medium,Medium
+Student_96_May-24,student96@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.39,Medium,None,Low,Medium,Low
+Student_97_May-24,student97@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,3.65,None,High,Medium,None,Medium
+Student_98_May-24,student98@may-24.spjain.edu,MGB,May-24,Term 3,Placed,2.82,High,High,Low,Low,High
+Student_99_May-24,student99@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.66,None,Medium,Medium,High,None
+Student_100_May-24,student100@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.96,Low,None,Low,Medium,Low
+Student_101_May-24,student101@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.29,None,Low,None,High,None
+Student_102_May-24,student102@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.38,Medium,Low,Low,Medium,Low
+Student_103_May-24,student103@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.7,None,Low,None,Medium,High
+Student_104_May-24,student104@may-24.spjain.edu,MGB,May-24,Term 3,Not Placed,2.58,None,Low,High,None,Low
+Student_105_May-24,student105@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,3.03,Low,None,Medium,Medium,Medium
+Student_106_May-24,student106@may-24.spjain.edu,MGB,May-24,Term 1,Placed,3.31,Low,Low,High,High,None
+Student_107_May-24,student107@may-24.spjain.edu,MGB,May-24,Term 3,Placed,3.5,High,Medium,High,High,High
+Student_108_May-24,student108@may-24.spjain.edu,MGB,May-24,Term 4,Not Placed,2.64,High,Medium,Low,Low,None
+Student_109_May-24,student109@may-24.spjain.edu,MGB,May-24,Term 4,Placed,3.53,Medium,Medium,High,None,Low
+Student_110_May-24,student110@may-24.spjain.edu,MGB,May-24,Term 2,Not Placed,3.73,Low,High,Medium,High,High
+Student_111_May-24,student111@may-24.spjain.edu,MGB,May-24,Term 2,Placed,3.16,Low,Low,High,High,Medium
+Student_1_Sep-24,student1@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,2.98,Low,Medium,Medium,Low,Low
+Student_2_Sep-24,student2@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.55,Low,High,None,High,None
+Student_3_Sep-24,student3@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.2,High,Low,Low,High,Medium
+Student_4_Sep-24,student4@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,2.51,None,Low,Medium,Low,High
+Student_5_Sep-24,student5@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,2.5,Low,Medium,High,Medium,None
+Student_6_Sep-24,student6@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,2.6,Low,High,Medium,Low,Medium
+Student_7_Sep-24,student7@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.64,Medium,Low,Low,Medium,High
+Student_8_Sep-24,student8@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,2.61,High,None,None,High,High
+Student_9_Sep-24,student9@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.91,High,High,None,None,None
+Student_10_Sep-24,student10@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,3.67,Medium,None,Low,Medium,Medium
+Student_11_Sep-24,student11@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,2.96,Low,Medium,High,High,None
+Student_12_Sep-24,student12@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.07,Medium,Low,Low,High,Medium
+Student_13_Sep-24,student13@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,3.74,High,None,Medium,None,Low
+Student_14_Sep-24,student14@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,3.85,Medium,Low,High,None,Low
+Student_15_Sep-24,student15@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.44,Medium,Medium,Medium,Low,Low
+Student_16_Sep-24,student16@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,2.52,High,High,None,High,Low
+Student_17_Sep-24,student17@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.46,None,Low,Medium,High,Medium
+Student_18_Sep-24,student18@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.08,None,Medium,Medium,High,Low
+Student_19_Sep-24,student19@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.0,None,Low,Medium,High,Medium
+Student_20_Sep-24,student20@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.75,High,Medium,Medium,None,Medium
+Student_21_Sep-24,student21@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.19,Low,Medium,High,Low,None
+Student_22_Sep-24,student22@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.54,Medium,High,None,High,High
+Student_23_Sep-24,student23@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,2.84,High,Medium,Medium,None,Medium
+Student_24_Sep-24,student24@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,2.6,High,None,High,Low,High
+Student_25_Sep-24,student25@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.66,None,Medium,Low,Low,High
+Student_26_Sep-24,student26@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.54,None,Medium,High,None,High
+Student_27_Sep-24,student27@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.88,None,Medium,High,None,Medium
+Student_28_Sep-24,student28@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.71,Low,Low,Low,High,High
+Student_29_Sep-24,student29@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.58,None,Medium,High,High,Medium
+Student_30_Sep-24,student30@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,3.3,Medium,Medium,Medium,High,Low
+Student_31_Sep-24,student31@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,2.92,Low,Medium,Medium,High,High
+Student_32_Sep-24,student32@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.37,Medium,High,Medium,High,Medium
+Student_33_Sep-24,student33@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.97,Low,Medium,Medium,Medium,Medium
+Student_34_Sep-24,student34@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.04,Medium,High,Medium,Low,Medium
+Student_35_Sep-24,student35@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.26,None,Low,High,None,Low
+Student_36_Sep-24,student36@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,2.5,High,Low,Medium,None,None
+Student_37_Sep-24,student37@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.1,High,Medium,Medium,High,High
+Student_38_Sep-24,student38@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.12,High,None,Low,None,High
+Student_39_Sep-24,student39@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,2.68,High,Low,Medium,Low,High
+Student_40_Sep-24,student40@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.74,High,Medium,High,None,None
+Student_41_Sep-24,student41@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.05,Low,None,None,None,High
+Student_42_Sep-24,student42@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.55,Medium,High,None,Low,Low
+Student_43_Sep-24,student43@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.37,Low,Low,High,None,None
+Student_44_Sep-24,student44@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.53,Medium,Medium,None,Low,High
+Student_45_Sep-24,student45@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,2.75,Medium,Medium,Medium,None,Medium
+Student_46_Sep-24,student46@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,2.63,Medium,Low,Medium,None,Medium
+Student_47_Sep-24,student47@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,2.9,Medium,High,High,None,High
+Student_48_Sep-24,student48@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.46,Low,High,None,Low,Medium
+Student_49_Sep-24,student49@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,3.71,Medium,Low,None,Medium,Low
+Student_50_Sep-24,student50@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.3,Medium,Medium,Low,Medium,High
+Student_51_Sep-24,student51@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,2.62,Low,None,None,High,Low
+Student_52_Sep-24,student52@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.8,None,Low,None,Low,None
+Student_53_Sep-24,student53@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.58,Low,Medium,Low,Medium,None
+Student_54_Sep-24,student54@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.99,Low,None,None,None,High
+Student_55_Sep-24,student55@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.86,Medium,High,Medium,Low,Low
+Student_56_Sep-24,student56@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,3.3,High,Low,Low,High,Low
+Student_57_Sep-24,student57@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,3.39,Low,Low,None,None,Low
+Student_58_Sep-24,student58@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,2.67,Medium,High,None,Low,Medium
+Student_59_Sep-24,student59@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,3.67,High,Low,Medium,None,High
+Student_60_Sep-24,student60@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,4.0,Low,Medium,Medium,Medium,None
+Student_61_Sep-24,student61@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.67,Low,Medium,High,None,None
+Student_62_Sep-24,student62@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,2.84,High,High,High,None,Low
+Student_63_Sep-24,student63@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.9,High,Low,None,High,Low
+Student_64_Sep-24,student64@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,2.81,Low,Medium,None,None,Low
+Student_65_Sep-24,student65@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,2.57,None,Medium,Medium,High,None
+Student_66_Sep-24,student66@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,2.83,None,None,None,Medium,None
+Student_67_Sep-24,student67@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.11,Medium,None,High,High,Low
+Student_68_Sep-24,student68@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.89,Low,Medium,None,High,High
+Student_69_Sep-24,student69@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.47,High,High,High,Medium,None
+Student_70_Sep-24,student70@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,2.6,Medium,Low,None,Medium,High
+Student_71_Sep-24,student71@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.41,Medium,High,Medium,None,High
+Student_72_Sep-24,student72@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.86,Medium,High,Medium,None,Low
+Student_73_Sep-24,student73@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,3.28,None,Medium,High,Medium,None
+Student_74_Sep-24,student74@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,2.69,Low,Low,Medium,Medium,Medium
+Student_75_Sep-24,student75@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.46,None,Medium,Medium,Medium,High
+Student_76_Sep-24,student76@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.78,Medium,Low,Medium,Medium,Medium
+Student_77_Sep-24,student77@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.63,Low,High,None,None,High
+Student_78_Sep-24,student78@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,2.57,Medium,None,None,High,Medium
+Student_79_Sep-24,student79@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,2.56,High,None,High,Medium,None
+Student_80_Sep-24,student80@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.47,Medium,Medium,High,None,None
+Student_81_Sep-24,student81@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.67,None,Medium,Low,None,Low
+Student_82_Sep-24,student82@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,2.81,Medium,Medium,Medium,Medium,High
+Student_83_Sep-24,student83@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,2.88,Medium,Low,Medium,Medium,Medium
+Student_84_Sep-24,student84@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,2.59,Medium,Low,Medium,Low,High
+Student_85_Sep-24,student85@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.75,None,Medium,High,High,High
+Student_86_Sep-24,student86@sep-24.spjain.edu,MGB,Sep-24,Term 3,Not Placed,3.53,None,Low,High,Medium,High
+Student_87_Sep-24,student87@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.84,Low,High,Low,Medium,High
+Student_88_Sep-24,student88@sep-24.spjain.edu,MGB,Sep-24,Term 1,Placed,3.66,Medium,None,High,Low,None
+Student_89_Sep-24,student89@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,3.49,None,High,Low,Low,None
+Student_90_Sep-24,student90@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,2.98,High,Medium,High,Low,High
+Student_91_Sep-24,student91@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.61,Low,Low,None,Low,High
+Student_92_Sep-24,student92@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.39,Medium,Low,None,None,Low
+Student_93_Sep-24,student93@sep-24.spjain.edu,MGB,Sep-24,Term 2,Placed,3.22,High,Medium,High,Low,Medium
+Student_94_Sep-24,student94@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,3.5,High,None,High,Medium,High
+Student_95_Sep-24,student95@sep-24.spjain.edu,MGB,Sep-24,Term 2,Not Placed,2.61,Medium,Medium,None,None,None
+Student_96_Sep-24,student96@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.55,None,Medium,High,Medium,None
+Student_97_Sep-24,student97@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.85,Medium,Medium,None,None,High
+Student_98_Sep-24,student98@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.54,None,None,Low,Medium,Medium
+Student_99_Sep-24,student99@sep-24.spjain.edu,MGB,Sep-24,Term 3,Placed,2.67,High,None,Low,Low,Medium
+Student_100_Sep-24,student100@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,2.77,High,Medium,High,Medium,High
+Student_101_Sep-24,student101@sep-24.spjain.edu,MGB,Sep-24,Term 1,Not Placed,3.76,Low,None,None,Low,Low
+Student_102_Sep-24,student102@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.22,High,High,Medium,None,None
+Student_103_Sep-24,student103@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,2.96,None,None,None,Low,None
+Student_104_Sep-24,student104@sep-24.spjain.edu,MGB,Sep-24,Term 4,Not Placed,3.83,High,None,Medium,None,Low
+Student_105_Sep-24,student105@sep-24.spjain.edu,MGB,Sep-24,Term 4,Placed,2.89,Low,High,High,None,Medium
+Student_1_Jan-24,student1@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,3.21,High,None,Low,None,Medium
+Student_2_Jan-24,student2@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.62,Low,Medium,None,Medium,Low
+Student_3_Jan-24,student3@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.54,None,High,Medium,Low,Low
+Student_4_Jan-24,student4@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,3.29,None,None,Medium,None,Low
+Student_5_Jan-24,student5@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.78,Low,Low,None,Low,Low
+Student_6_Jan-24,student6@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.87,Low,Low,Low,Medium,Low
+Student_7_Jan-24,student7@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,3.69,Low,High,None,Medium,Medium
+Student_8_Jan-24,student8@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,3.37,Low,Medium,Low,None,Low
+Student_9_Jan-24,student9@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.72,High,Low,None,Medium,None
+Student_10_Jan-24,student10@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,2.65,Medium,High,High,None,Medium
+Student_11_Jan-24,student11@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.67,None,High,None,Low,Low
+Student_12_Jan-24,student12@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.93,None,Low,Low,None,Medium
+Student_13_Jan-24,student13@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.87,High,Low,Low,None,Low
+Student_14_Jan-24,student14@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,2.72,Medium,High,High,Medium,Low
+Student_15_Jan-24,student15@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,3.67,Medium,None,Low,None,Low
+Student_16_Jan-24,student16@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.0,Low,None,High,None,High
+Student_17_Jan-24,student17@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.89,Low,Low,Medium,Low,Low
+Student_18_Jan-24,student18@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.83,High,Medium,Low,High,Medium
+Student_19_Jan-24,student19@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.79,None,Medium,Medium,High,Medium
+Student_20_Jan-24,student20@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.19,Medium,Low,None,Medium,High
+Student_21_Jan-24,student21@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,2.85,None,None,None,High,High
+Student_22_Jan-24,student22@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,3.35,Low,None,High,Medium,High
+Student_23_Jan-24,student23@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.83,High,None,Low,Medium,High
+Student_24_Jan-24,student24@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,3.76,High,Medium,Medium,Low,High
+Student_25_Jan-24,student25@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.72,Low,None,None,Low,Medium
+Student_26_Jan-24,student26@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.59,Medium,Medium,Medium,Medium,Medium
+Student_27_Jan-24,student27@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.7,Medium,Low,None,High,Medium
+Student_28_Jan-24,student28@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.84,Medium,Medium,Low,None,None
+Student_29_Jan-24,student29@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.6,High,None,None,Low,High
+Student_30_Jan-24,student30@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.71,None,Low,Low,Medium,High
+Student_31_Jan-24,student31@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.46,Medium,High,High,Medium,Medium
+Student_32_Jan-24,student32@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,2.76,High,Medium,Low,Medium,High
+Student_33_Jan-24,student33@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.19,High,High,None,Medium,Medium
+Student_34_Jan-24,student34@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,2.58,Low,High,None,None,Low
+Student_35_Jan-24,student35@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.75,None,None,Low,Low,None
+Student_36_Jan-24,student36@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,3.89,High,None,Low,Medium,None
+Student_37_Jan-24,student37@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.44,Low,High,Medium,Medium,Low
+Student_38_Jan-24,student38@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,3.08,Low,Low,Medium,Medium,None
+Student_39_Jan-24,student39@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.18,High,Medium,High,Medium,High
+Student_40_Jan-24,student40@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.68,None,High,Medium,Low,None
+Student_41_Jan-24,student41@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,3.18,High,None,Low,High,Medium
+Student_42_Jan-24,student42@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,2.66,Low,Low,Medium,Low,High
+Student_43_Jan-24,student43@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,2.76,Medium,None,None,Low,Medium
+Student_44_Jan-24,student44@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,2.77,High,Low,Low,Medium,Medium
+Student_45_Jan-24,student45@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,2.76,Low,Low,None,Medium,Medium
+Student_46_Jan-24,student46@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.8,Low,Low,Low,None,High
+Student_47_Jan-24,student47@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,3.26,Low,High,Low,None,High
+Student_48_Jan-24,student48@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.79,None,Low,High,Low,Medium
+Student_49_Jan-24,student49@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.89,Medium,None,None,Medium,Medium
+Student_50_Jan-24,student50@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,2.85,Medium,None,None,None,Low
+Student_51_Jan-24,student51@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.87,Medium,High,None,High,None
+Student_52_Jan-24,student52@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.71,Medium,High,Low,Medium,Medium
+Student_53_Jan-24,student53@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.61,None,Medium,High,Medium,Low
+Student_54_Jan-24,student54@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,2.85,Medium,None,Medium,None,Medium
+Student_55_Jan-24,student55@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.56,None,High,Low,Low,High
+Student_56_Jan-24,student56@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.79,High,Medium,High,High,Low
+Student_57_Jan-24,student57@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.6,High,Medium,Medium,High,Medium
+Student_58_Jan-24,student58@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,3.62,High,Low,Medium,None,None
+Student_59_Jan-24,student59@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.95,High,High,High,Low,Low
+Student_60_Jan-24,student60@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,2.96,Low,Medium,High,High,None
+Student_61_Jan-24,student61@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.16,None,Medium,Low,Low,None
+Student_62_Jan-24,student62@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.92,None,Low,High,None,Medium
+Student_63_Jan-24,student63@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.49,High,Medium,None,Medium,Medium
+Student_64_Jan-24,student64@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.77,Low,High,High,Low,Medium
+Student_65_Jan-24,student65@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,3.69,High,Low,None,High,High
+Student_66_Jan-24,student66@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.73,None,Low,High,Medium,Medium
+Student_67_Jan-24,student67@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.59,None,None,None,High,Medium
+Student_68_Jan-24,student68@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.51,Medium,Medium,Low,Medium,None
+Student_69_Jan-24,student69@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.51,High,Low,Medium,Low,Medium
+Student_70_Jan-24,student70@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.9,Medium,None,Medium,High,High
+Student_71_Jan-24,student71@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.3,None,Medium,None,None,Medium
+Student_72_Jan-24,student72@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,3.77,Medium,None,Medium,Medium,None
+Student_73_Jan-24,student73@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.26,High,None,Medium,None,None
+Student_74_Jan-24,student74@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,3.15,Low,High,High,High,Medium
+Student_75_Jan-24,student75@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.8,Medium,Medium,High,Medium,Low
+Student_76_Jan-24,student76@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.61,High,None,Low,High,None
+Student_77_Jan-24,student77@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.08,High,None,Low,Medium,High
+Student_78_Jan-24,student78@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,2.87,High,Medium,None,None,None
+Student_79_Jan-24,student79@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Not Placed,3.88,High,Low,None,Medium,Low
+Student_80_Jan-24,student80@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,2.77,High,Medium,None,None,Low
+Student_81_Jan-24,student81@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.65,Low,High,Medium,Low,None
+Student_82_Jan-24,student82@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.43,Medium,Low,Low,Medium,Low
+Student_83_Jan-24,student83@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.65,Low,Medium,High,None,Low
+Student_84_Jan-24,student84@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.65,None,None,Low,High,None
+Student_85_Jan-24,student85@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,2.53,High,None,Low,None,Low
+Student_86_Jan-24,student86@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,3.11,High,Medium,Low,High,None
+Student_87_Jan-24,student87@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,2.93,None,Low,Medium,None,High
+Student_88_Jan-24,student88@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.66,High,Low,Low,Low,High
+Student_89_Jan-24,student89@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.81,Low,Medium,High,High,Medium
+Student_90_Jan-24,student90@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Placed,3.94,High,None,None,Low,High
+Student_91_Jan-24,student91@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.91,Low,Low,High,Medium,High
+Student_92_Jan-24,student92@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.99,Low,Medium,None,Low,High
+Student_93_Jan-24,student93@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,3.98,Medium,High,Medium,None,Low
+Student_94_Jan-24,student94@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,2.5,High,Low,None,None,High
+Student_95_Jan-24,student95@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Placed,2.53,Low,None,Low,High,Low
+Student_96_Jan-24,student96@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.97,Low,None,None,High,None
+Student_97_Jan-24,student97@jan-24.spjain.edu,GMBA,Jan-24,Term 1,Placed,3.3,Medium,None,High,High,High
+Student_98_Jan-24,student98@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Not Placed,3.06,High,High,Medium,Low,Low
+Student_99_Jan-24,student99@jan-24.spjain.edu,GMBA,Jan-24,Term 3,Not Placed,2.7,High,None,None,Low,Low
+Student_100_Jan-24,student100@jan-24.spjain.edu,GMBA,Jan-24,Term 4,Not Placed,3.73,Low,Medium,Low,High,None
+Student_101_Jan-24,student101@jan-24.spjain.edu,GMBA,Jan-24,Term 2,Placed,2.68,Low,None,None,Medium,Low
+Student_1_May-24,student1@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.91,Medium,High,High,Low,Medium
+Student_2_May-24,student2@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,3.16,High,Low,None,Low,None
+Student_3_May-24,student3@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,3.31,Low,Low,Medium,None,Low
+Student_4_May-24,student4@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.77,Medium,Medium,Low,High,None
+Student_5_May-24,student5@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,2.93,Low,Medium,High,Medium,High
+Student_6_May-24,student6@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.09,Medium,High,High,None,Medium
+Student_7_May-24,student7@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,3.24,None,Low,Medium,Low,Low
+Student_8_May-24,student8@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,2.76,Low,Medium,Low,Medium,Low
+Student_9_May-24,student9@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.67,Low,None,Low,High,None
+Student_10_May-24,student10@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.0,High,High,Low,Low,High
+Student_11_May-24,student11@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.18,Low,None,Medium,Low,Medium
+Student_12_May-24,student12@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.95,Low,High,None,High,Low
+Student_13_May-24,student13@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,2.8,Low,Medium,High,Low,Medium
+Student_14_May-24,student14@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,2.83,High,Medium,None,High,High
+Student_15_May-24,student15@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.74,Medium,None,High,None,Medium
+Student_16_May-24,student16@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,3.69,None,None,Medium,High,Low
+Student_17_May-24,student17@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,2.97,High,Low,Medium,High,None
+Student_18_May-24,student18@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,2.99,Medium,Low,Medium,None,High
+Student_19_May-24,student19@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.03,None,Medium,Low,Low,None
+Student_20_May-24,student20@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.6,None,None,Medium,None,High
+Student_21_May-24,student21@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.81,None,Medium,Low,None,None
+Student_22_May-24,student22@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,2.58,High,High,High,High,Low
+Student_23_May-24,student23@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.37,Medium,Low,Medium,High,High
+Student_24_May-24,student24@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,3.86,Medium,Low,None,Low,Low
+Student_25_May-24,student25@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,3.16,Low,None,Low,Low,Medium
+Student_26_May-24,student26@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,2.77,High,None,None,High,Medium
+Student_27_May-24,student27@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,3.46,None,High,None,High,Low
+Student_28_May-24,student28@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.89,High,Low,Medium,None,None
+Student_29_May-24,student29@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,3.97,High,High,Medium,Medium,High
+Student_30_May-24,student30@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,3.63,High,High,Medium,None,High
+Student_31_May-24,student31@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.36,High,Medium,High,None,None
+Student_32_May-24,student32@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.97,None,None,Medium,Medium,Low
+Student_33_May-24,student33@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,3.62,High,None,High,Low,Medium
+Student_34_May-24,student34@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,2.53,High,High,Medium,High,High
+Student_35_May-24,student35@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.78,None,Low,Medium,Low,Low
+Student_36_May-24,student36@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.59,High,High,Low,High,High
+Student_37_May-24,student37@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.99,Medium,Low,Medium,None,Medium
+Student_38_May-24,student38@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.86,None,Medium,None,None,Medium
+Student_39_May-24,student39@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,2.83,Low,None,Medium,Medium,Low
+Student_40_May-24,student40@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.56,Low,Low,None,High,Low
+Student_41_May-24,student41@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.5,High,Low,None,None,Medium
+Student_42_May-24,student42@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.04,High,High,None,Low,Medium
+Student_43_May-24,student43@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.49,Medium,None,None,Medium,None
+Student_44_May-24,student44@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.32,None,None,None,High,Low
+Student_45_May-24,student45@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,2.77,High,None,Low,Low,High
+Student_46_May-24,student46@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,2.55,High,None,Low,Medium,Low
+Student_47_May-24,student47@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.74,High,Low,High,High,Medium
+Student_48_May-24,student48@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.24,Medium,High,Low,Medium,None
+Student_49_May-24,student49@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.13,High,Low,Low,Low,None
+Student_50_May-24,student50@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.39,Medium,High,None,High,None
+Student_51_May-24,student51@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,2.89,High,Medium,Medium,Low,None
+Student_52_May-24,student52@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.63,Low,High,Medium,Low,None
+Student_53_May-24,student53@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,2.68,Low,Medium,High,None,High
+Student_54_May-24,student54@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,3.76,Low,High,Medium,Low,Medium
+Student_55_May-24,student55@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.81,None,None,Low,Medium,Medium
+Student_56_May-24,student56@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,2.93,None,None,High,Low,High
+Student_57_May-24,student57@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.41,High,Low,Medium,None,High
+Student_58_May-24,student58@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.09,Low,Low,Medium,High,Low
+Student_59_May-24,student59@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.79,Medium,High,High,Low,None
+Student_60_May-24,student60@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,2.51,Low,High,High,High,None
+Student_61_May-24,student61@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,3.35,Medium,Low,Low,Medium,High
+Student_62_May-24,student62@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,3.57,Low,High,Medium,Medium,Low
+Student_63_May-24,student63@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.38,None,Medium,None,Low,None
+Student_64_May-24,student64@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,2.77,High,None,Low,Medium,Medium
+Student_65_May-24,student65@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.9,Medium,Medium,None,High,High
+Student_66_May-24,student66@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,2.79,None,None,High,None,Medium
+Student_67_May-24,student67@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.52,None,None,Medium,High,Medium
+Student_68_May-24,student68@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.39,Medium,None,None,Medium,High
+Student_69_May-24,student69@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,3.11,High,High,Low,None,None
+Student_70_May-24,student70@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.59,None,Medium,Medium,Low,High
+Student_71_May-24,student71@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.82,None,High,Medium,High,None
+Student_72_May-24,student72@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,2.64,Medium,None,High,None,High
+Student_73_May-24,student73@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,2.71,High,High,Low,Low,Low
+Student_74_May-24,student74@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,4.0,High,Medium,High,None,High
+Student_75_May-24,student75@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,2.96,None,High,Medium,Medium,Low
+Student_76_May-24,student76@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.78,Medium,High,None,High,Medium
+Student_77_May-24,student77@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.82,Low,High,Medium,High,Low
+Student_78_May-24,student78@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.7,None,Medium,None,High,Medium
+Student_79_May-24,student79@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,3.46,Low,Low,High,Medium,Medium
+Student_80_May-24,student80@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,2.62,None,Low,High,Medium,Low
+Student_81_May-24,student81@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,3.38,Low,High,None,High,Medium
+Student_82_May-24,student82@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.36,High,Low,High,Medium,None
+Student_83_May-24,student83@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,3.6,None,Low,None,None,None
+Student_84_May-24,student84@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,3.2,High,High,Low,Low,None
+Student_85_May-24,student85@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,3.27,Medium,None,High,High,High
+Student_86_May-24,student86@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,3.43,Medium,High,None,Low,High
+Student_87_May-24,student87@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,3.36,Medium,None,Medium,Medium,Low
+Student_88_May-24,student88@may-24.spjain.edu,GMBA,May-24,Term 2,Not Placed,3.31,None,Low,None,High,Medium
+Student_89_May-24,student89@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.36,None,Low,Low,None,Medium
+Student_90_May-24,student90@may-24.spjain.edu,GMBA,May-24,Term 2,Placed,2.75,Medium,Medium,None,Medium,High
+Student_91_May-24,student91@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,2.5,Medium,Medium,High,High,High
+Student_92_May-24,student92@may-24.spjain.edu,GMBA,May-24,Term 1,Not Placed,2.87,Low,None,None,Medium,High
+Student_93_May-24,student93@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.27,High,High,Low,High,None
+Student_94_May-24,student94@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.37,High,None,Medium,Medium,Medium
+Student_95_May-24,student95@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.9,None,High,None,High,Low
+Student_96_May-24,student96@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,3.91,None,None,Low,None,Medium
+Student_97_May-24,student97@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,2.53,Low,Medium,Medium,None,High
+Student_98_May-24,student98@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.93,High,High,High,Low,High
+Student_99_May-24,student99@may-24.spjain.edu,GMBA,May-24,Term 3,Not Placed,2.99,Medium,Low,Medium,High,Medium
+Student_100_May-24,student100@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.6,Medium,Low,Medium,Low,None
+Student_101_May-24,student101@may-24.spjain.edu,GMBA,May-24,Term 4,Placed,3.17,None,Low,Low,Low,None
+Student_102_May-24,student102@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,2.72,High,High,High,Medium,Low
+Student_103_May-24,student103@may-24.spjain.edu,GMBA,May-24,Term 1,Placed,3.56,High,Medium,Medium,Medium,None
+Student_104_May-24,student104@may-24.spjain.edu,GMBA,May-24,Term 3,Placed,2.72,None,Medium,High,Low,High
+Student_105_May-24,student105@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,3.53,Medium,None,Medium,Low,Medium
+Student_106_May-24,student106@may-24.spjain.edu,GMBA,May-24,Term 4,Not Placed,2.74,Medium,Low,None,High,High
+Student_1_Sep-24,student1@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.43,Medium,Low,High,High,None
+Student_2_Sep-24,student2@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.68,Low,Low,High,Low,None
+Student_3_Sep-24,student3@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,2.59,Medium,Medium,High,Low,None
+Student_4_Sep-24,student4@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,2.58,Medium,Medium,Medium,None,High
+Student_5_Sep-24,student5@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.59,Medium,Medium,Medium,None,High
+Student_6_Sep-24,student6@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,2.69,Low,Low,High,None,None
+Student_7_Sep-24,student7@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,2.84,Low,Low,None,High,Low
+Student_8_Sep-24,student8@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.97,None,Medium,Low,None,High
+Student_9_Sep-24,student9@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.0,High,Low,None,Medium,Low
+Student_10_Sep-24,student10@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,2.89,Low,None,High,None,None
+Student_11_Sep-24,student11@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.91,High,Medium,None,Medium,None
+Student_12_Sep-24,student12@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.26,None,None,Low,None,Medium
+Student_13_Sep-24,student13@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,3.98,None,None,None,Low,Low
+Student_14_Sep-24,student14@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.74,Medium,High,Medium,Low,High
+Student_15_Sep-24,student15@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.96,High,Low,None,Low,Medium
+Student_16_Sep-24,student16@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,2.97,Low,Medium,Low,High,Low
+Student_17_Sep-24,student17@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.32,High,Medium,High,Low,None
+Student_18_Sep-24,student18@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,2.75,Low,Medium,High,None,Low
+Student_19_Sep-24,student19@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.65,High,None,Medium,High,Medium
+Student_20_Sep-24,student20@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,2.5,None,Medium,Low,Medium,Low
+Student_21_Sep-24,student21@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.59,Low,None,High,None,None
+Student_22_Sep-24,student22@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.02,High,High,High,Medium,High
+Student_23_Sep-24,student23@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,2.97,Low,High,Medium,Medium,High
+Student_24_Sep-24,student24@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,2.58,None,High,Medium,None,Medium
+Student_25_Sep-24,student25@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,2.58,High,Medium,Medium,High,Medium
+Student_26_Sep-24,student26@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.33,High,High,High,Low,High
+Student_27_Sep-24,student27@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,2.95,None,High,Medium,High,None
+Student_28_Sep-24,student28@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.64,None,High,High,None,Medium
+Student_29_Sep-24,student29@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.58,Low,High,Low,None,Low
+Student_30_Sep-24,student30@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.44,High,Medium,None,Low,Medium
+Student_31_Sep-24,student31@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.56,High,None,Medium,None,High
+Student_32_Sep-24,student32@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.67,High,Medium,None,High,None
+Student_33_Sep-24,student33@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,2.54,High,None,Medium,Medium,Medium
+Student_34_Sep-24,student34@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.22,High,Medium,None,Low,Medium
+Student_35_Sep-24,student35@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.82,High,High,Medium,Low,High
+Student_36_Sep-24,student36@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.2,High,High,Medium,Low,Low
+Student_37_Sep-24,student37@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,2.82,None,Medium,Medium,High,None
+Student_38_Sep-24,student38@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.4,None,Low,None,Low,None
+Student_39_Sep-24,student39@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.08,None,Low,High,None,High
+Student_40_Sep-24,student40@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,3.55,Medium,High,Low,High,High
+Student_41_Sep-24,student41@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.74,None,High,High,None,High
+Student_42_Sep-24,student42@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.05,Low,Medium,Low,Medium,High
+Student_43_Sep-24,student43@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,2.93,Low,High,Medium,High,High
+Student_44_Sep-24,student44@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.61,High,High,Low,Medium,High
+Student_45_Sep-24,student45@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.05,High,None,None,Low,None
+Student_46_Sep-24,student46@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.57,Medium,Medium,Low,Medium,Low
+Student_47_Sep-24,student47@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,2.5,High,High,Low,None,None
+Student_48_Sep-24,student48@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.24,None,High,Low,None,Medium
+Student_49_Sep-24,student49@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.62,High,Medium,High,None,None
+Student_50_Sep-24,student50@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,2.7,Low,None,High,Low,Low
+Student_51_Sep-24,student51@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.06,High,None,Medium,Medium,None
+Student_52_Sep-24,student52@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,2.94,Low,None,Low,Low,None
+Student_53_Sep-24,student53@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,2.71,Low,High,None,High,High
+Student_54_Sep-24,student54@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,2.59,None,High,Low,None,Low
+Student_55_Sep-24,student55@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.22,High,Medium,High,None,Low
+Student_56_Sep-24,student56@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.3,Medium,None,Low,High,Low
+Student_57_Sep-24,student57@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.51,None,High,Medium,Medium,Low
+Student_58_Sep-24,student58@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.53,None,Medium,None,Medium,Low
+Student_59_Sep-24,student59@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.12,Low,Medium,High,None,None
+Student_60_Sep-24,student60@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.22,High,Medium,Low,Medium,None
+Student_61_Sep-24,student61@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.54,Low,Medium,Medium,None,None
+Student_62_Sep-24,student62@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.84,High,Low,None,Medium,Medium
+Student_63_Sep-24,student63@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.67,Medium,Low,High,Low,High
+Student_64_Sep-24,student64@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,2.8,None,High,Low,None,None
+Student_65_Sep-24,student65@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,2.97,Low,None,None,High,None
+Student_66_Sep-24,student66@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.57,Low,Low,Medium,None,High
+Student_67_Sep-24,student67@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.75,Low,Medium,Medium,None,Medium
+Student_68_Sep-24,student68@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.18,Medium,Medium,High,Medium,Medium
+Student_69_Sep-24,student69@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,2.65,High,None,Low,None,None
+Student_70_Sep-24,student70@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,2.66,Medium,High,Low,Medium,Low
+Student_71_Sep-24,student71@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,2.9,None,Medium,High,Low,Medium
+Student_72_Sep-24,student72@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.93,High,Medium,Medium,Medium,High
+Student_73_Sep-24,student73@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,3.99,High,High,Low,Medium,None
+Student_74_Sep-24,student74@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.74,High,None,High,High,None
+Student_75_Sep-24,student75@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.88,High,None,Medium,None,High
+Student_76_Sep-24,student76@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.91,Low,Medium,Medium,Medium,None
+Student_77_Sep-24,student77@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,2.88,Low,None,Medium,High,None
+Student_78_Sep-24,student78@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Not Placed,3.67,None,Medium,High,Medium,High
+Student_79_Sep-24,student79@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,2.89,Medium,Low,Low,High,Medium
+Student_80_Sep-24,student80@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.19,Medium,None,Medium,High,Medium
+Student_81_Sep-24,student81@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,2.83,High,Low,None,High,Medium
+Student_82_Sep-24,student82@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.18,Low,Medium,None,Medium,Low
+Student_83_Sep-24,student83@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,3.38,Low,Low,High,None,High
+Student_84_Sep-24,student84@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,3.72,None,None,Low,None,High
+Student_85_Sep-24,student85@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.32,High,Medium,High,Medium,Medium
+Student_86_Sep-24,student86@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Not Placed,3.66,Low,Medium,High,Low,Low
+Student_87_Sep-24,student87@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,2.76,Medium,Low,Medium,Medium,Medium
+Student_88_Sep-24,student88@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,3.94,Medium,Low,High,High,Medium
+Student_89_Sep-24,student89@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Not Placed,3.02,High,High,Medium,Low,Low
+Student_90_Sep-24,student90@sep-24.spjain.edu,GMBA,Sep-24,Term 3,Placed,2.84,None,Low,Medium,Medium,Medium
+Student_91_Sep-24,student91@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,2.94,Medium,None,Medium,None,Medium
+Student_92_Sep-24,student92@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.02,Medium,High,Medium,Low,Low
+Student_93_Sep-24,student93@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,3.82,High,None,Low,None,Low
+Student_94_Sep-24,student94@sep-24.spjain.edu,GMBA,Sep-24,Term 2,Placed,2.68,Medium,None,None,Medium,High
+Student_95_Sep-24,student95@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Not Placed,2.96,Low,Low,Medium,High,High
+Student_96_Sep-24,student96@sep-24.spjain.edu,GMBA,Sep-24,Term 4,Placed,3.39,Low,High,Medium,None,Low
+Student_97_Sep-24,student97@sep-24.spjain.edu,GMBA,Sep-24,Term 1,Placed,2.77,None,High,Medium,High,None

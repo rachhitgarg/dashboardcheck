@@ -1,0 +1,101 @@
+Academic_Manager_Name,Program,Cohort,Term,Q1_Improvement_observed,Q2_Students_motivated,Q3_Effectiveness,Q4_Key_observations
+AM_Singh,MGB,Jan-22,Term 2,Disagree,Neutral,Not Effective,AI Mentor helped students stay on track
+AM_Patel,MGB,Jan-22,Term 2,Agree,Strongly Agree,Very Effective,Students showed significant improvement in project quality
+AM_Singh,MGB,Jan-22,Term 4,Disagree,Agree,Very Effective,AI Mentor helped students stay on track
+AM_Sharma,MGB,Jan-22,Term 4,Disagree,Agree,Not Effective,AI Mentor reduced faculty workload effectively
+AM_Verma,MGB,Jan-22,Term 4,Disagree,Neutral,Effective,AI Mentor helped students stay on track
+AM_Sharma,MGB,Jan-22,Term 1,Disagree,Agree,Somewhat Effective,AI Mentor reduced faculty workload effectively
+AM_Verma,MGB,May-22,Term 3,Strongly Agree,Strongly Agree,Not Effective,Some students needed additional guidance
+AM_Kumar,MGB,May-22,Term 4,Strongly Agree,Agree,Somewhat Effective,AI Mentor reduced faculty workload effectively
+AM_Verma,MGB,May-22,Term 1,Strongly Agree,Agree,Not Effective,Students showed significant improvement in project quality
+AM_Verma,MGB,May-22,Term 3,Strongly Agree,Neutral,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,MGB,May-22,Term 4,Neutral,Disagree,Somewhat Effective,Some students needed additional guidance
+AM_Patel,MGB,May-22,Term 2,Strongly Agree,Neutral,Somewhat Effective,Students showed significant improvement in project quality
+AM_Sharma,MGB,May-22,Term 2,Strongly Agree,Neutral,Very Effective,Some students needed additional guidance
+AM_Kumar,MGB,Sep-22,Term 2,Strongly Agree,Neutral,Somewhat Effective,AI Mentor helped students stay on track
+AM_Verma,MGB,Sep-22,Term 3,Neutral,Neutral,Very Effective,Students showed significant improvement in project quality
+AM_Verma,MGB,Sep-22,Term 2,Agree,Disagree,Somewhat Effective,AI Mentor helped students stay on track
+AM_Patel,MGB,Sep-22,Term 2,Disagree,Agree,Very Effective,Some students needed additional guidance
+AM_Kumar,MGB,Sep-22,Term 2,Agree,Disagree,Not Effective,AI Mentor reduced faculty workload effectively
+AM_Singh,MGB,Sep-22,Term 4,Agree,Agree,Somewhat Effective,Students showed significant improvement in project quality
+AM_Patel,GMBA,Jan-22,Term 1,Strongly Agree,Agree,Not Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,GMBA,Jan-22,Term 3,Disagree,Agree,Not Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,GMBA,Jan-22,Term 3,Agree,Disagree,Very Effective,Some students needed additional guidance
+AM_Sharma,GMBA,Jan-22,Term 4,Neutral,Strongly Agree,Very Effective,Some students needed additional guidance
+AM_Sharma,GMBA,Jan-22,Term 3,Neutral,Neutral,Somewhat Effective,Students showed significant improvement in project quality
+AM_Patel,GMBA,Jan-22,Term 4,Disagree,Agree,Effective,Some students needed additional guidance
+AM_Singh,GMBA,Jan-22,Term 3,Strongly Agree,Strongly Agree,Very Effective,Students showed significant improvement in project quality
+AM_Sharma,GMBA,Jan-22,Term 1,Strongly Agree,Disagree,Somewhat Effective,AI Mentor helped students stay on track
+AM_Patel,GMBA,May-22,Term 3,Agree,Strongly Agree,Very Effective,Students showed significant improvement in project quality
+AM_Kumar,GMBA,May-22,Term 2,Strongly Agree,Strongly Agree,Very Effective,AI Mentor helped students stay on track
+AM_Sharma,GMBA,May-22,Term 2,Strongly Agree,Agree,Somewhat Effective,Some students needed additional guidance
+AM_Sharma,GMBA,May-22,Term 1,Disagree,Neutral,Not Effective,Some students needed additional guidance
+AM_Patel,GMBA,May-22,Term 2,Strongly Agree,Neutral,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,GMBA,May-22,Term 3,Strongly Agree,Neutral,Somewhat Effective,AI Mentor helped students stay on track
+AM_Sharma,GMBA,May-22,Term 1,Disagree,Agree,Not Effective,AI Mentor helped students stay on track
+AM_Sharma,GMBA,May-22,Term 1,Agree,Disagree,Effective,Students showed significant improvement in project quality
+AM_Patel,GMBA,Sep-22,Term 1,Strongly Agree,Strongly Agree,Very Effective,Some students needed additional guidance
+AM_Sharma,GMBA,Sep-22,Term 1,Disagree,Agree,Very Effective,Students showed significant improvement in project quality
+AM_Sharma,GMBA,Sep-22,Term 3,Agree,Neutral,Not Effective,Students showed significant improvement in project quality
+AM_Verma,GMBA,Sep-22,Term 4,Disagree,Disagree,Not Effective,Students showed significant improvement in project quality
+AM_Verma,GMBA,Sep-22,Term 2,Strongly Agree,Disagree,Not Effective,Students showed significant improvement in project quality
+AM_Verma,GMBA,Sep-22,Term 3,Neutral,Neutral,Not Effective,Students showed significant improvement in project quality
+AM_Kumar,MGB,Jan-23,Term 3,Neutral,Strongly Agree,Not Effective,Some students needed additional guidance
+AM_Singh,MGB,Jan-23,Term 2,Strongly Agree,Disagree,Effective,Some students needed additional guidance
+AM_Sharma,MGB,Jan-23,Term 1,Neutral,Disagree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Singh,MGB,Jan-23,Term 2,Strongly Agree,Agree,Very Effective,AI Mentor helped students stay on track
+AM_Sharma,MGB,Jan-23,Term 4,Strongly Agree,Neutral,Not Effective,AI Mentor reduced faculty workload effectively
+AM_Kumar,MGB,Jan-23,Term 1,Neutral,Strongly Agree,Somewhat Effective,Students showed significant improvement in project quality
+AM_Sharma,MGB,Jan-23,Term 1,Agree,Disagree,Effective,AI Mentor helped students stay on track
+AM_Kumar,MGB,Jan-23,Term 1,Agree,Disagree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Kumar,MGB,May-23,Term 2,Agree,Strongly Agree,Effective,Students showed significant improvement in project quality
+AM_Patel,MGB,May-23,Term 1,Disagree,Agree,Very Effective,Students showed significant improvement in project quality
+AM_Kumar,MGB,May-23,Term 4,Agree,Strongly Agree,Effective,AI Mentor reduced faculty workload effectively
+AM_Patel,MGB,May-23,Term 4,Neutral,Strongly Agree,Effective,Some students needed additional guidance
+AM_Singh,MGB,May-23,Term 1,Agree,Neutral,Very Effective,Students showed significant improvement in project quality
+AM_Patel,MGB,May-23,Term 2,Disagree,Agree,Somewhat Effective,AI Mentor helped students stay on track
+AM_Sharma,MGB,May-23,Term 2,Strongly Agree,Agree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Kumar,MGB,Sep-23,Term 4,Strongly Agree,Strongly Agree,Very Effective,AI Mentor helped students stay on track
+AM_Kumar,MGB,Sep-23,Term 3,Disagree,Disagree,Effective,AI Mentor helped students stay on track
+AM_Singh,MGB,Sep-23,Term 3,Disagree,Disagree,Effective,AI Mentor helped students stay on track
+AM_Verma,MGB,Sep-23,Term 1,Agree,Disagree,Very Effective,Some students needed additional guidance
+AM_Sharma,GMBA,Jan-23,Term 1,Agree,Agree,Very Effective,Students showed significant improvement in project quality
+AM_Verma,GMBA,Jan-23,Term 3,Agree,Disagree,Effective,Some students needed additional guidance
+AM_Kumar,GMBA,Jan-23,Term 2,Strongly Agree,Agree,Not Effective,AI Mentor reduced faculty workload effectively
+AM_Singh,GMBA,Jan-23,Term 2,Strongly Agree,Strongly Agree,Somewhat Effective,Some students needed additional guidance
+AM_Singh,GMBA,Jan-23,Term 4,Neutral,Neutral,Not Effective,Students showed significant improvement in project quality
+AM_Kumar,GMBA,May-23,Term 2,Agree,Strongly Agree,Not Effective,Students showed significant improvement in project quality
+AM_Kumar,GMBA,May-23,Term 2,Disagree,Neutral,Not Effective,AI Mentor helped students stay on track
+AM_Patel,GMBA,May-23,Term 2,Strongly Agree,Neutral,Effective,Students showed significant improvement in project quality
+AM_Sharma,GMBA,Sep-23,Term 2,Disagree,Agree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Verma,GMBA,Sep-23,Term 4,Strongly Agree,Disagree,Effective,AI Mentor helped students stay on track
+AM_Verma,GMBA,Sep-23,Term 4,Agree,Disagree,Somewhat Effective,AI Mentor helped students stay on track
+AM_Sharma,GMBA,Sep-23,Term 2,Neutral,Neutral,Effective,Some students needed additional guidance
+AM_Kumar,MGB,Jan-24,Term 1,Neutral,Agree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,MGB,Jan-24,Term 4,Agree,Neutral,Effective,Some students needed additional guidance
+AM_Verma,MGB,Jan-24,Term 2,Agree,Agree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Verma,MGB,Jan-24,Term 4,Agree,Disagree,Not Effective,Some students needed additional guidance
+AM_Sharma,MGB,May-24,Term 2,Agree,Neutral,Not Effective,AI Mentor helped students stay on track
+AM_Verma,MGB,May-24,Term 2,Strongly Agree,Disagree,Very Effective,Students showed significant improvement in project quality
+AM_Sharma,MGB,May-24,Term 1,Disagree,Disagree,Not Effective,Students showed significant improvement in project quality
+AM_Sharma,MGB,Sep-24,Term 2,Strongly Agree,Strongly Agree,Not Effective,AI Mentor helped students stay on track
+AM_Singh,MGB,Sep-24,Term 3,Neutral,Agree,Very Effective,Students showed significant improvement in project quality
+AM_Sharma,MGB,Sep-24,Term 3,Agree,Disagree,Very Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,MGB,Sep-24,Term 2,Disagree,Agree,Somewhat Effective,AI Mentor reduced faculty workload effectively
+AM_Kumar,MGB,Sep-24,Term 1,Disagree,Neutral,Very Effective,Some students needed additional guidance
+AM_Sharma,MGB,Sep-24,Term 3,Agree,Strongly Agree,Somewhat Effective,Students showed significant improvement in project quality
+AM_Patel,GMBA,Jan-24,Term 1,Strongly Agree,Disagree,Somewhat Effective,AI Mentor reduced faculty workload effectively
+AM_Verma,GMBA,Jan-24,Term 1,Neutral,Neutral,Effective,Students showed significant improvement in project quality
+AM_Verma,GMBA,Jan-24,Term 2,Agree,Neutral,Effective,Students showed significant improvement in project quality
+AM_Sharma,GMBA,Jan-24,Term 2,Agree,Neutral,Somewhat Effective,Some students needed additional guidance
+AM_Verma,GMBA,Jan-24,Term 4,Neutral,Strongly Agree,Very Effective,Some students needed additional guidance
+AM_Patel,GMBA,Jan-24,Term 4,Disagree,Strongly Agree,Not Effective,Some students needed additional guidance
+AM_Sharma,GMBA,Jan-24,Term 3,Strongly Agree,Agree,Not Effective,Students showed significant improvement in project quality
+AM_Sharma,GMBA,May-24,Term 2,Neutral,Strongly Agree,Very Effective,AI Mentor helped students stay on track
+AM_Patel,GMBA,May-24,Term 1,Agree,Disagree,Effective,AI Mentor helped students stay on track
+AM_Verma,GMBA,May-24,Term 1,Neutral,Disagree,Effective,AI Mentor reduced faculty workload effectively
+AM_Sharma,GMBA,Sep-24,Term 4,Strongly Agree,Neutral,Effective,Students showed significant improvement in project quality
+AM_Kumar,GMBA,Sep-24,Term 2,Neutral,Disagree,Somewhat Effective,Some students needed additional guidance
+AM_Sharma,GMBA,Sep-24,Term 4,Disagree,Neutral,Effective,Some students needed additional guidance
+AM_Singh,GMBA,Sep-24,Term 3,Agree,Disagree,Somewhat Effective,Some students needed additional guidance
+AM_Kumar,GMBA,Sep-24,Term 2,Neutral,Neutral,Not Effective,AI Mentor helped students stay on track
