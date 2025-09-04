@@ -434,13 +434,117 @@ def main():
                 st.plotly_chart(fig, use_container_width=True)
         
         with col2:
-            # Rating distribution
-            rating_counts = ai_tutor_filtered['Avg_Rating_for_AI_Tutor_Tool'].value_counts().sort_index()
-            fig = px.bar(x=rating_counts.index, y=rating_counts.values,
-                        title='AI Tutor Rating Distribution',
-                        labels={'x': 'Rating', 'y': 'Count'})
-            fig.update_layout(height=400)
+            # Enhanced Rating Analysis with Categories
+            ratings = ai_tutor_filtered['Avg_Rating_for_AI_Tutor_Tool']
+            
+            # Create rating categories for better insights
+            def categorize_rating(rating):
+                if rating >= 4.5:
+                    return "⭐ Excellent (4.5-5.0)"
+                elif rating >= 4.0:
+                    return "✅ Good (4.0-4.4)"
+                elif rating >= 3.5:
+                    return "⚡ Average (3.5-3.9)"
+                else:
+                    return "⚠️ Below Average (<3.5)"
+            
+            # Create rating categories
+            rating_categories = ratings.apply(categorize_rating)
+            category_counts = rating_categories.value_counts()
+            
+            # Create donut chart with better colors
+            colors = ['#2E8B57', '#32CD32', '#FFD700', '#FF6347']
+            fig = px.pie(values=category_counts.values, names=category_counts.index,
+                        title='AI Tutor Rating Categories',
+                        color_discrete_sequence=colors,
+                        hole=0.4)
+            
+            # Add annotations for better readability
+            fig.update_traces(
+                textposition='inside', 
+                textinfo='percent+label',
+                textfont_size=10
+            )
+            
+            # Add average rating in the center
+            avg_rating = ratings.mean()
+            fig.add_annotation(
+                text=f"Avg: {avg_rating:.2f}/5.0",
+                x=0.5, y=0.5,
+                font_size=16, font_color="navy",
+                showarrow=False
+            )
+            
+            fig.update_layout(height=400, showlegend=False)
             st.plotly_chart(fig, use_container_width=True)
+        
+        # Additional Rating Insights
+        st.subheader("📊 Detailed Rating Analysis")
+        
+        col1, col2, col3 = st.columns(3)
+        
+        with col1:
+            # Rating Statistics
+            st.metric("Average Rating", f"{ratings.mean():.2f}/5.0")
+            st.metric("Median Rating", f"{ratings.median():.2f}/5.0")
+            
+        with col2:
+            st.metric("Highest Rating", f"{ratings.max():.2f}/5.0")
+            st.metric("Lowest Rating", f"{ratings.min():.2f}/5.0")
+            
+        with col3:
+            # Rating consistency (standard deviation)
+            rating_std = ratings.std()
+            consistency = "High" if rating_std < 0.3 else "Medium" if rating_std < 0.5 else "Low"
+            st.metric("Rating Consistency", consistency)
+            st.metric("Rating Spread", f"±{rating_std:.2f}")
+        
+        # Enhanced Rating Distribution Histogram
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            # Rating histogram with better binning
+            fig_hist = px.histogram(
+                x=ratings, 
+                nbins=15,
+                title='Rating Distribution Histogram',
+                labels={'x': 'Rating', 'y': 'Frequency'},
+                color_discrete_sequence=['#1f77b4']
+            )
+            fig_hist.update_layout(height=350)
+            fig_hist.add_vline(x=ratings.mean(), line_dash="dash", line_color="red", 
+                             annotation_text=f"Mean: {ratings.mean():.2f}")
+            st.plotly_chart(fig_hist, use_container_width=True)
+        
+        with col2:
+            # Rating trend gauge chart
+            avg_rating = ratings.mean()
+            
+            fig_gauge = go.Figure(go.Indicator(
+                mode = "gauge+number+delta",
+                value = avg_rating,
+                domain = {'x': [0, 1], 'y': [0, 1]},
+                title = {'text': "Overall Rating Performance"},
+                delta = {'reference': 4.0},  # Reference point for good rating
+                gauge = {
+                    'axis': {'range': [None, 5]},
+                    'bar': {'color': "darkblue"},
+                    'steps': [
+                        {'range': [0, 2], 'color': "lightgray"},
+                        {'range': [2, 3], 'color': "gray"},
+                        {'range': [3, 4], 'color': "yellow"},
+                        {'range': [4, 4.5], 'color': "lightgreen"},
+                        {'range': [4.5, 5], 'color': "green"}
+                    ],
+                    'threshold': {
+                        'line': {'color': "red", 'width': 4},
+                        'thickness': 0.75,
+                        'value': 4.0
+                    }
+                }
+            ))
+            fig_gauge.update_layout(height=350)
+            st.plotly_chart(fig_gauge, use_container_width=True)
         
         # Faculty feedback analysis
         st.subheader("Faculty Feedback Analysis")
